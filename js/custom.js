@@ -18,9 +18,9 @@
 
 	$(window).on('scroll', function() {
 		if ($(window).scrollTop() > 50) {
-			$('.main-header').addClass('fixed-menu');
+			$('.main-header').addClass('');
 		} else {
-			$('.main-header').removeClass('fixed-menu');
+			$('.main-header').removeClass('');
 		}
 	});
 
