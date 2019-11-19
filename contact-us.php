@@ -1,8 +1,8 @@
 <?php include "header.php" ?>
 
     <!-- Start Contact Us  -->
+    <div class = "custom-container">
     <div class="contact-box-main">
-
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-sm-12">
@@ -172,7 +172,7 @@
     <!-- End Instagram Feed  -->
 
     <?php include "footer.php" ?>
-
+</div>
     <!-- Start copyright  -->
     <div class="footer-copyright">
         <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :

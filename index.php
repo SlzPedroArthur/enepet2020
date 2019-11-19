@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
     <!-- Start Slider -->
-    <div style="margin-top:100px" id="slides-shop" class="cover-slides">
+    <div id="slides-shop" class="cover-slides">
         <ul class="slides-container">
             <li class="text-left">
                 <img src="images/banner-01.jpg" alt="">
@@ -10,7 +10,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>ENEPET <br> 2020</strong></h1>
                             <p class="m-b-40"> Em construção <br> e ainda em construção.</p>
-                            <p><a class="btn hvr-hover" href="news.html">Saiba mais</a></p>
+                            <p><a class="btn hvr-hover" href="news.php">Saiba mais</a></p>
                         </div>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>ENEPET <br> 2020</strong></h1>
                             <p class="m-b-40">Em construção <br> e ainda em construção.</p>
-                            <p><a class="btn hvr-hover" href="news.html">Saiba mais!</a></p>
+                            <p><a class="btn hvr-hover" href="news.php">Saiba mais!</a></p>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>ENEPET <br> 2020</strong></h1>
                             <p class="m-b-40">Em construção <br> e ainda em construção.</p>
-                            <p><a class="btn hvr-hover" href="news.html">Saiba mais!</a></p>
+                            <p><a class="btn hvr-hover" href="news.php">Saiba mais!</a></p>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,6 @@
     <!-- End Blog  -->
 
     <?php include "footer.php" ?>
-
     <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 
     <!-- ALL JS FILES -->

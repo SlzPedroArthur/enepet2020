@@ -1,6 +1,7 @@
 <?php include "header.php" ?>
 
     <!-- Start Services  -->
+    <div class = "custom-container">
     <div class="services-box-main">
         <div class="container">
             <div class="title-all text-center">
@@ -55,7 +56,7 @@
     <!-- End All Title Box -->
     
     <?php include "footer.php" ?>
-
+</div>
     <!-- Start copyright  -->
     <div class="footer-copyright">
         <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :

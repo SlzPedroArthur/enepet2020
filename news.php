@@ -1,4 +1,4 @@
-<?php include "header.html" ?>
+<?php include "header.php" ?>
 
 <!-- Start News  -->
     <div class="container">
