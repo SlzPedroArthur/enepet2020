@@ -76,14 +76,17 @@
                                             <h6 class="title">ENCONTROS</h6>
                                         </div>
                                         <!-- end col-3 -->
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">ANAIS</h6>
+                                        </div>
+                                        <!-- end col-3 -->
                                     </div>
                                     <!-- end row -->
                                 </li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="registrations.php">Inscrições</a></li>
-                        <li class="nav-item"><a class="nav-link" href="registrations.php">Anais</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact-us.php">Organização</a></li>
+                        <li class="nav-item"><a class="nav-link" href="organization.php">Organização</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
