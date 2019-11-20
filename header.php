@@ -40,7 +40,7 @@
     <header class="main-header fixed-menu">
         <!-- Start Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-default bootsnav">
-            <div class="container">
+            <div class="container-fluid">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,47 +51,52 @@
                 <!-- End Header Navigation -->
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="navbar-menu">
-                    <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
-                        <li class="nav-item active"><a class="nav-link" href="index.php">Notícias</a></li>
-                        <li class="nav-item"><a class="nav-link" href="service.php">Programação</a></li>
-                        <li class="nav-item"><a class="nav-link" href="about.php">Local</a></li>
-                        <li class="dropdown megamenu-fw">
-                            <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Submissões</a>
-                            <ul class="dropdown-menu megamenu-content" role="menu">
-                                <li>
-                                    <div class="row">
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">ARTIGOS</h6>
-                                        </div>
-                                        <!-- end col-3 -->
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">MINICURSOS</h6>
-                                        </div>
-                                        <!-- end col-3 -->
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">OFICINAS</h6>
-                                        </div>
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">ENCONTROS</h6>
-                                        </div>
-                                        <!-- end col-3 -->
-                                        <div class="col-menu col-md-3">
-                                            <h6 class="title">ANAIS</h6>
-                                        </div>
-                                        <!-- end col-3 -->
+                <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+                    <li class="active"><a class="nav-link" href="service.php">Programação</a></li>
+                    <li class="dropdown">
+                        <a class="nav-link" href="#">Local</a>
+                        <ul class ="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Alimentação</a></li>
+                            <li><a class="dropdown-item" href="#">Transporte</a></li>
+                        </ul>   
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="submission.php">Submissões</a></li>
+                    <li class="dropdown megamenu-fw">
+                        <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Submissões</a>
+                        <ul class="dropdown-menu megamenu-content" role="menu">
+                            <li>
+                                <div class="row">
+                                    <div class="col-menu col-md-3">
+                                        <h6 class="title">ARTIGOS</h6>
                                     </div>
-                                    <!-- end row -->
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="nav-item"><a class="nav-link" href="registrations.php">Inscrições</a></li>
-                        <li class="nav-item"><a class="nav-link" href="organization.php">Organização</a></li>
-                    </ul>
-                </div>
-                <!-- /.navbar-collapse -->
+                                    <!-- end col-3 -->
+                                    <div class="col-menu col-md-3">
+                                        <h6 class="title">MINICURSOS</h6>
+                                    </div>
+                                    <!-- end col-3 -->
+                                    <div class="col-menu col-md-3">
+                                        <h6 class="title">OFICINAS</h6>
+                                    </div>
+                                    <div class="col-menu col-md-3">
+                                        <h6 class="title">ENCONTROS</h6>
+                                    </div>
+                                    <!-- end col-3 -->
+                                    <div class="col-menu col-md-3">
+                                        <h6 class="title">ANAIS</h6>
+                                    </div>
+                                    <!-- end col-3 -->
+                                </div>
+                                <!-- end row -->
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="organization.php">Organização</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact-us.php">Contato</a></li>
+                </ul>
             </div>
+            <!-- /.navbar-collapse -->
         </nav>
         <!-- End Navigation -->
     </header>
+    <div class="custom-container">
     <!-- End Main Top -->

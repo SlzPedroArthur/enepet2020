@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
     <!-- Start Contact Us  -->
-    <div style="margin-top:190px" class="services-box-main">
+    <div  class="services-box-main">
         <div class="container">
             <div class="title-all text-center">
                 <h1>PETs</h1>

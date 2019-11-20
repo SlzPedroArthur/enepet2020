@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
     <!-- Start Contact Us  -->
-    <div style="margin-top:190px" class="contact-box-main">
+    <div class="contact-box-main">
 
         <div class="container">
             <div class="row">

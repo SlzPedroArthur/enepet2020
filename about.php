@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
     <!-- Start About Page  -->
-    <div style="margin-top:190px" class="about-box-main">
+    <div class="about-box-main">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">

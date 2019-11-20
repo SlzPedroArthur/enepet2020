@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
     <!-- Start Slider -->
-    <div style="margin-top:190px" id="slides-shop" class="cover-slides">
+    <div id="slides-shop" class="cover-slides">
         <ul class="slides-container">
             <li class="text-left">
                 <img src="images/banner-01.jpg" alt="">

@@ -1,7 +1,7 @@
-<?php include "header.php" ?>
+<?php include "header.php"?>
 
     <!-- Start Services  -->
-    <div style="margin-top:190px" class="services-box-main">
+    <div class="services-box-main">
         <div class="container">
             <div class="title-all text-center">
                 <h1>Programação Completa</h1>
