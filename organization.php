@@ -1,138 +1,53 @@
 <?php include "header.php" ?>
 
-    <!-- Start Contact Us  -->
-    <div  class="services-box-main">
-        <div class="container">
-            <div class="title-all text-center">
-                <h1>PETs</h1>
-                <p>Saiba quem são os sediadores do ENEPET 2020!</p><br>
-            </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/petcomp.png">
-                        <h2><b>PETComp</b></h2>
-                    </div>    
+    <!-- Start Organization  -->
+    <div id="slides-shop" class="cover-slides" style="height:20em;" >
+        <ul class="slides-container" >
+            <li class="text-left">
+                <img src="images/banner-01.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="images/petcomp.png" style="width:5em;height:5em;">
+                            <h2 class="m-b-20"><b>PETCOMP</b></h2>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>   
+            </li>
+            <li class="text-center">
+                <img src="images/banner-02.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="images/petcomp.png" style="width:5em;height:5em;">
+                            <h2 class="m-b-20"><b>PETCOMP</b></h2>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
+            </li>
+            <li class="text-right">
+                <img src="images/banner-03.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="images/petcomp.png" style="width:5em;height:5em;">
+                            <h2 class="m-b-20"><b>PETCOMP</b></h2>
+                        </div>
+                    </div>
                 </div>
-            </div><br>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>   
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
-                </div>
-            </div><br>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>   
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
-                </div>
-            </div><br>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>   
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>PETs</b></h2>
-                    </div>    
-                </div>
-            </div><br>
+            </li>
+        </ul>
+        <div class="slides-navigation">
+            <a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            <a href="#" class="prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
         </div>
+    </div>
+    <div  class="services-box-main">
         <div class="container">
             <div class="title-all text-center">
                 <h1>PATROCINADORES</h1>
                 <p>Saiba quem são os patrocinadores do ENEPET 2020!</p><br>
             </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>    
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>   
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>    
-                </div>
-            </div><br>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>    
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>   
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>    
-                </div>
-            </div><br>
             <div class="row">
                 <div class="col-sm-4">
                     <div class="title-all text-center">
