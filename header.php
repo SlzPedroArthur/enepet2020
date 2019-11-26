@@ -56,7 +56,7 @@
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
-                    <li class="active"><a class="nav-link" href="service.php">Programação</a></li>
+                    <li class="nav-item"><a class="nav-link" href="service.php">Programação</a></li>
                     <li class="dropdown">
                         <a class="nav-link" href="#">Local</a>
                         <ul class ="dropdown-menu">
@@ -64,35 +64,15 @@
                             <li><a class="dropdown-item" href="#">Transporte</a></li>
                         </ul>   
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="submission.php">Submissões</a></li>
-                    <li class="dropdown megamenu-fw">
-                        <a href="#" class="nav-link dropdown-toggle arrow" data-toggle="dropdown">Submissões</a>
-                        <ul class="dropdown-menu megamenu-content" role="menu">
-                            <li>
-                                <div class="row">
-                                    <div class="col-menu col-md-3">
-                                        <h6 class="title">ARTIGOS</h6>
-                                    </div>
-                                    <!-- end col-3 -->
-                                    <div class="col-menu col-md-3">
-                                        <h6 class="title">MINICURSOS</h6>
-                                    </div>
-                                    <!-- end col-3 -->
-                                    <div class="col-menu col-md-3">
-                                        <h6 class="title">OFICINAS</h6>
-                                    </div>
-                                    <div class="col-menu col-md-3">
-                                        <h6 class="title">ENCONTROS</h6>
-                                    </div>
-                                    <!-- end col-3 -->
-                                    <div class="col-menu col-md-3">
-                                        <h6 class="title">ANAIS</h6>
-                                    </div>
-                                    <!-- end col-3 -->
-                                </div>
-                                <!-- end row -->
-                            </li>
-                        </ul>
+                    <li class="dropdown">
+                        <a class="nav-link" href="#">Submissões</a>
+                        <ul class ="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Anais</a></li>
+                            <li><a class="dropdown-item" href="#">Artigos</a></li>
+                            <li><a class="dropdown-item" href="#">Encontros</a></li>
+                            <li><a class="dropdown-item" href="#">Oficinas</a></li>
+                            <li><a class="dropdown-item" href="#">Resumos</a></li>
+                        </ul>   
                     </li>
                     <li class="nav-item"><a class="nav-link" href="organization.php">Organização</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact-us.php">Contato</a></li>

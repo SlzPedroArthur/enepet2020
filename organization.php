@@ -1,92 +1,182 @@
 <?php include "header.php" ?>
 
     <!-- Start Organization  -->
-    <div id="slides-shop" class="cover-slides" style="height:20em;" >
-        <ul class="slides-container" >
-            <li class="text-left">
-                <img src="images/banner-01.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <img src="images/petcomp.png" style="width:5em;height:5em;">
-                            <h2 class="m-b-20"><b>PETCOMP</b></h2>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="text-center">
-                <img src="images/banner-02.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <img src="images/petcomp.png" style="width:5em;height:5em;">
-                            <h2 class="m-b-20"><b>PETCOMP</b></h2>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="text-right">
-                <img src="images/banner-03.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <img src="images/petcomp.png" style="width:5em;height:5em;">
-                            <h2 class="m-b-20"><b>PETCOMP</b></h2>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        </ul>
-        <div class="slides-navigation">
-            <a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-            <a href="#" class="prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
-        </div>
-    </div>
+    
     <div  class="services-box-main">
-        <div class="container">
+	    <div class="container">
             <div class="title-all text-center">
                 <h1>PATROCINADORES</h1>
                 <p>Saiba quem são os patrocinadores do ENEPET 2020!</p><br>
             </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>    
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>   
-                </div>
-                <div class="col-sm-4">
-                    <div class="title-all text-center">
-                        <img src="images/logoPET.png" class="rounded-circle" alt="">
-                        <h2><b>Patrocinador</b></h2>
-                    </div>    
-                </div>
-            </div><br>
-        </div>
-    </div>
+		    <div class="row mx-auto my-auto">
+		        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+		            <div class="carousel-inner" role="listbox">
+		                <div class="carousel-item active">
+		                	<div class="row">
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5 style="color: black;">PATROCINADOR</h5>					
+		                            </center>
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5 style="color: black;">PATROCINADOR</h5>					
+		                            </center>	
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5 style="color: black;">PATROCINADOR</h5>							           
+		                            </center>	
+		                        </div>
+		                    </div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color: black;">PATROCINADOR</h5>		
+		                            </center>
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color: black;">PATROCINADOR</h5>		
+		                            </center>	
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color: black;">PATROCINADOR</h5>		
+		                            </center>	
+		                        </div>
+		                	</div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color: black;">PATROCINADOR</h5>		
+		                            </center>
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color: black;">PATROCINADOR</h5>		
+		                            </center>	
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color: black;">PATROCINADOR</h5>		
+		                            </center>	
+		                        </div>	   
+		                    </div>
+		                </div>
+		            </div>
+		            <a class="carousel-control-prev" href="#recipeCarousel" role="button" data-slide="prev">
+		                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Previous</span>
+		            </a>
+		            <a class="carousel-control-next" href="#recipeCarousel" role="button" data-slide="next">
+		                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Next</span>
+		            </a>
+		        </div>
+		    </div>
+		</div>
 
-    <!-- Start All Title Box -->
-    <div class="all-title-box">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2>Uma dúvida ŕapida?</h2>
-                    <ul class="breadcrumb">
-                        <li class="breadcrumb-item">Manda um Direct no IG<a href="#"></a></li>
-                    </ul>
-                </div>
+		<div class="container">
+            <div class="title-all text-center">
+                <h1>PETs</h1>
+                <p>Saiba quem são os PETs sediadores do ENEPET 2020!</p><br>
             </div>
-        </div>
-    </div>
-    <!-- End All Title Box -->
-
-    <!-- End Cart -->
+		    <div class="row mx-auto my-auto">
+		        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+		            <div class="carousel-inner" role="listbox">
+		            	<div class="carousel-item active">
+		                	<div class="row">
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5 style="color:black;">PET</h5>					
+		                            </center>
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5 style="color:black;">PET</h5>					
+		                            </center>	
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5 style="color:black;">PET</h5>							           
+		                            </center>	
+		                        </div>
+		                    </div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color:black;">PET</h5>		
+		                            </center>
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color:black;">PET</h5>		
+		                            </center>	
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color:black;">PET</h5>		
+		                            </center>	
+		                        </div>
+		                	</div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color:black;">PET</h5>		
+		                            </center>
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color:black;">PET</h5>		
+		                            </center>	
+		                        </div>
+		                        <div class="col-sm">
+		                            <center>
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png">
+										<h5 style="color:black;">PET</h5>		
+		                            </center>	
+		                        </div>	   
+		                    </div>
+		                </div>
+		            </div>
+		            <a class="carousel-control-prev" href="#recipeCarousel" role="button" data-slide="prev">
+		                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Previous</span>
+		            </a>
+		            <a class="carousel-control-next" href="#recipeCarousel" role="button" data-slide="next">
+		                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Next</span>
+		            </a>
+		        </div>
+		    </div>
+		</div>
+	</div>
 
     <?php include "footer.php" ?>
 
