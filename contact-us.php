@@ -9,7 +9,7 @@
                     <div class="contact-info-left">
                         <hr> 
                         <h2>CONTATO</h2>
-                        <p>Bla blah Bla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blah. </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         <ul>
                             <li>
                                 <p><i class="fas fa-map-marker-alt"></i>Endereço: Av. dos Portugueses, 1966<br>Vila Bacanga São Luís - MA,<br> CEP 65080-805  </p>
@@ -18,7 +18,7 @@
                                 <p><i class="fas fa-phone-square"></i>Telefone: (98) XXXX-XXXX</a></p>
                             </li>
                             <li>
-                                <p><i class="fas fa-envelope"></i>Email: <a href="mailto:blablabla@gmail.com">blablabla@gmail.com</a></p>
+                                <p><i class="fas fa-envelope"></i>Email: <a href="mailto:blablabla@gmail.com">emaildoenepet@dominio.com</a></p>
                             </li>
                         </ul>
                     </div>
@@ -27,34 +27,34 @@
                     <div class="contact-form-right">
                         <hr> 
                         <h2>GET IN TOUCH</h2>
-                        <p>Bla blah Bla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blah.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         <form id="contactForm">
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="name" name="name" placeholder="Your Name" required data-error="Please enter your name">
+                                        <input type="text" class="form-control" id="name" name="name" placeholder="Seu Nome" required data-error="Por favor, entre com o seu nome">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input type="text" placeholder="Your Email" id="email" class="form-control" name="name" required data-error="Please enter your email">
+                                        <input type="text" placeholder="Seu Email" id="email" class="form-control" name="name" required data-error="Por favor, entre com o seu email">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="subject" name="name" placeholder="Subject" required data-error="Please enter your Subject">
+                                        <input type="text" class="form-control" id="subject" name="name" placeholder="Título" required data-error="Por favor, entre com o título">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <textarea class="form-control" id="message" placeholder="Your Message" rows="4" data-error="Write your message" required></textarea>
+                                        <textarea class="form-control" id="message" placeholder="Sua mensagem" rows="4" data-error="Digite sua mensagem" required></textarea>
                                         <div class="help-block with-errors"></div>
                                     </div>
                                     <div class="submit-button text-center">
-                                        <button class="btn hvr-hover" id="submit" type="submit">Send Message</button>
+                                        <button class="btn hvr-hover" id="submit" type="submit">Enviar Mensagem</button>
                                         <div id="msgSubmit" class="h3 text-center hidden"></div>
                                         <div class="clearfix"></div>
                                     </div>

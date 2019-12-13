@@ -52,26 +52,26 @@
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
-                    <li class="nav-item"><a class="nav-link" href="service.php">Programação</a></li>
+                    <li class="nav-item"><a class="nav-link" href="construction.php">Programação</a></li>
                     <li class="dropdown">
                         <a class="nav-link" href="#">Local</a>
                         <ul class ="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Alimentação</a></li>
-                            <li><a class="dropdown-item" href="#">Transporte</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Alimentação</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Transporte</a></li>
                         </ul>   
                     </li>
                     <li class="dropdown">
                         <a class="nav-link" href="#">Submissões</a>
                         <ul class ="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Anais</a></li>
-                            <li><a class="dropdown-item" href="#">Artigos</a></li>
-                            <li><a class="dropdown-item" href="#">Encontros</a></li>
-                            <li><a class="dropdown-item" href="#">Oficinas</a></li>
-                            <li><a class="dropdown-item" href="#">Resumos</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Anais</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Artigos</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Encontros</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Oficinas</a></li>
+                            <li><a class="dropdown-item" href="construction.php">Resumos</a></li>
                         </ul>   
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="organization.php">Organização</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact-us.php">Contato</a></li>
+                    <li class="nav-item"><a class="nav-link" href="construction.php">Organização</a></li>
+                    <li class="nav-item"><a class="nav-link" href="construction.php">Contato</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

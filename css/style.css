@@ -2225,7 +2225,8 @@ img {
      padding: 70px 0px;
 }
  .services-box-main{
-     margin-top: 1000px;
+    position: relative;
+     margin-top: 0;
      padding: 70px 0px;
 }
  .contact-box-main{

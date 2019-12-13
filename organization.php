@@ -14,19 +14,19 @@
 		                	<div class="row">
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
@@ -36,19 +36,19 @@
 		                	<div class="row">
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
@@ -58,19 +58,19 @@
 		                	<div class="row">
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PATROCINADOR</h5>					
 		                            </div>	
 		                        </div>	   
@@ -106,13 +106,13 @@
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PETBio</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PETSociais</h5>					
 		                            </div>			                        
 		                        </div>
@@ -122,19 +122,19 @@
 		                	<div class="row">
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PET</h5>					
 		                            </div>			                       
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PET</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PET</h5>					
 		                            </div>	
 		                        </div>
@@ -144,19 +144,19 @@
 		                	<div class="row">
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PET</h5>					
 		                            </div>	
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PET</h5>					
 		                            </div>			                        
 		                        </div>
 		                        <div class="col-sm">
             						<div class="title-all text-center">
-		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
 										<h5>PET</h5>					
 		                            </div>	
 		                        </div>	   

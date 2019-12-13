@@ -11,25 +11,25 @@
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>1º Dia</h3>
-                        <p>Bla blah Bla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blah. </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>2º Dia</h3>
-                        <p>Bla blah Bla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blah. </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>3º Dia</h3>
-                        <p>Bla blah Bla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blah. </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-6">
                     <div class="service-block-inner">
                         <h3>4º Dia</h3>
-                        <p>Bla blah Bla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blah Bla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blahBla blah. </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                     </div>
                 </div>
                 

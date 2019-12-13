@@ -54,7 +54,7 @@
                 <div class="col-lg-12">
                     <div class="title-all text-center">
                         <h1>Sobre</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        <p>O XIX Encontro Nordestino dos Grupos PET (ENEPET) traz consigo o tema: Liberdade, equidade e pluralidade: o PET em luta pela autonomia da universidade. Nós, da organização do ENEPET, acreditamos que resistimos e lutamos pela autonomia do programa ao compartilhar experiências, ideias e conhecimentos sobre o ser petiana(o); que é por meio do diálogo entre grupos, Comitê Local de Acompanhamento e Avaliação (CLAAs) e IES, que conseguimos fortalecer o PET Nordeste, afinal, é na rotina das reuniões e atividades que entendemos o real significado do aprender, fazendo e refletindo sobre. Assim, buscamos construir uma programação que abarcasse da melhor forma a realidade de todos os grupos, para que possamos juntos propor as mudanças que queremos consolidar cada vez mais em nosso programa. A gente se vê em São Luís/MA! </p>
                     </div>
                 </div>
             </div>
