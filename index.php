@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>ENEPET <br> 2020</strong></h1>
-                            <p class="m-b-40"> Em construção <br> e ainda em construção.</p>
-                            <p><a class="btn hvr-hover" href="news.html">Saiba mais</a></p>
+                            <h1 class="m-b-20"><strong>Incrições <br> Abertas!</strong></h1>
+                            <p class="m-b-40"> Acesse o link para <br> as informações sobre as inscrições.</p>
+                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/"> Inscreva-se!</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,9 +20,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>ENEPET <br> 2020</strong></h1>
-                            <p class="m-b-40">Em construção <br> e ainda em construção.</p>
-                            <p><a class="btn hvr-hover" href="news.html">Saiba mais!</a></p>
+                            <h1 class="m-b-20"><strong>Siga-nos no<br>Instagram!</strong></h1>
+                            <p class="m-b-40">Para as mais novas atualizações<br>e os melhores post.</p>
+                            <p><a class="btn hvr-hover" href="https://www.instagram.com/enepetma/">Acesse!</a></p>
                         </div>
                     </div>
                 </div>
@@ -32,9 +32,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>ENEPET <br> 2020</strong></h1>
-                            <p class="m-b-40">Em construção <br> e ainda em construção.</p>
-                            <p><a class="btn hvr-hover" href="news.html">Saiba mais!</a></p>
+                            <h1 class="m-b-20"><strong>Últimas <br> Notícias</strong></h1>
+                            <p class="m-b-40">Depois de reunião com <br> nosso reitor temos novidades.</p>
+                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Saiba mais!</a></p>
                         </div>
                     </div>
                 </div>
@@ -48,6 +48,63 @@
     <!-- End Slider -->
 
 <!-- Start Blog  -->
+<div class="latest-blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-all text-center">
+                        <h1>Fique ligado!</h1>
+                        <p>As últimas notícias diretamente dos bastidores da organização do evento!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Notícias vindo da reitoria</h3>
+                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Programação saindo do forno!</h3>
+                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Siga-nos no Instagram!</h3>
+                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                            </div>
+                            <ul class="option-blog">
+                            <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Blog  -->
+
+
+<!-- Start Info  -->
     <div class="latest-blog">
         <div class="container">
             <div class="row">
@@ -60,7 +117,7 @@
             </div>
         </div>
     </div>
-    <!-- End Blog  -->
+    <!-- End Info  -->
 
     <?php include "footer.php" ?>
 

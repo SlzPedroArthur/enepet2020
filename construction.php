@@ -4,8 +4,8 @@
     <div class="services-box-main">
         <div class="container">
             <div class="title-all text-center">
-                <h1>Em construção</h1>
-                <p>Aguarde até que tudo esteja pronto</p>
+                <h1>Em Breve!</h1>
+                <p>Aguarde até que tudo esteja pronto :)</p>
             </div>
         </div>
     </div>
@@ -14,12 +14,6 @@
     
     <?php include "footer.php" ?>
 
-    <!-- Start copyright  -->
-    <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :
-            <a href="https://html.design/">html design</a></p>
-    </div>
-    <!-- End copyright  -->
 
     <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 

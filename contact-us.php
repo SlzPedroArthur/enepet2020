@@ -9,16 +9,19 @@
                     <div class="contact-info-left">
                         <hr> 
                         <h2>CONTATO</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        <p>Alguma dúvida? Proposta? Comentário? Envie-nos um email! Basta preencher os requerimento ao lado.</p>
                         <ul>
                             <li>
                                 <p><i class="fas fa-map-marker-alt"></i>Endereço: Av. dos Portugueses, 1966<br>Vila Bacanga São Luís - MA,<br> CEP 65080-805  </p>
                             </li>
                             <li>
-                                <p><i class="fas fa-phone-square"></i>Telefone: (98) XXXX-XXXX</a></p>
+                                <p><i class="fas fa-phone-square"></i>Prof. Marilda da Conceição: (98) 98773-6064</a></p>
                             </li>
                             <li>
-                                <p><i class="fas fa-envelope"></i>Email: <a href="mailto:blablabla@gmail.com">emaildoenepet@dominio.com</a></p>
+                                <p><i class="fas fa-phone-square"></i>Alan Potter: (98) 98804-0523</a></p>
+                            </li>
+                            <li>
+                                <p><i class="fas fa-envelope"></i><a>enepet-2020@googlegroups.com</a></p>
                             </li>
                         </ul>
                     </div>
@@ -26,8 +29,7 @@
                 <div class="col-lg-8 col-sm-12">
                     <div class="contact-form-right">
                         <hr> 
-                        <h2>GET IN TOUCH</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h2>Envie-nos um email!</h2>
                         <form id="contactForm">
                             <div class="row">
                                 <div class="col-md-12">
@@ -67,14 +69,191 @@
         </div>
     </div>
 
+    <!-- Start Organization  -->
+    <div  class="services-box-main">
+	    <div class="container">
+            <div class="title-all text-center">
+                <h1>PATROCINADORES</h1>
+                <p>Saiba quem são os patrocinadores do ENEPET 2020!</p><br>
+            </div>
+		    <div class="row mx-auto my-auto">
+		        <div id="recipeCarousel1" class="carousel slide w-100" data-ride="carousel">
+		            <div class="carousel-inner" role="listbox">
+		                <div class="carousel-item active">
+		                	<div class="row">
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                    </div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                	</div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PATROCINADOR</h5>					
+		                            </div>	
+		                        </div>	   
+		                    </div>
+		                </div>
+		            </div>
+		            <a class="carousel-control-prev" href="#recipeCarousel1" role="button" data-slide="prev">
+		                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Previous</span>
+		            </a>
+		            <a class="carousel-control-next" href="#recipeCarousel1" role="button" data-slide="next">
+		                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Next</span>
+		            </a>
+		        </div>
+		    </div>
+		</div>
+		<div class="container">
+            <div class="title-all text-center">
+                <h1>PETs</h1>
+                <p>Saiba quem são os PETs sediadores do ENEPET 2020!</p><br>
+            </div>
+		    <div class="row mx-auto my-auto">
+		        <div id="recipeCarousel2" class="carousel slide w-100" data-ride="carousel">
+		            <div class="carousel-inner" role="listbox">
+		            	<div class="carousel-item active">
+		                	<div class="row">
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src="images/petcomp.png"><br>
+										<h5>PETComp</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PETBio</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PETSociais</h5>					
+		                            </div>			                        
+		                        </div>
+		                    </div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PET</h5>					
+		                            </div>			                       
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PET</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PET</h5>					
+		                            </div>	
+		                        </div>
+		                	</div>
+		                </div>
+		                <div class="carousel-item">
+		                	<div class="row">
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PET</h5>					
+		                            </div>	
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PET</h5>					
+		                            </div>			                        
+		                        </div>
+		                        <div class="col-sm">
+            						<div class="title-all text-center">
+		                            	<img class="d-block col-10 img-fluid" src=""><br>
+										<h5>PET</h5>					
+		                            </div>	
+		                        </div>	   
+		                    </div>
+		                </div>
+		            </div>
+		            <a class="carousel-control-prev" href="#recipeCarousel2" role="button" data-slide="prev">
+		                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Previous</span>
+		            </a>
+		            <a class="carousel-control-next" href="#recipeCarousel2" role="button" data-slide="next">
+		                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+		                <span class="sr-only">Next</span>
+		            </a>
+		        </div>
+		    </div>
+		</div>
+	</div>
+
+
     <!-- Start All Title Box -->
     <div class="all-title-box">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Uma dúvida ŕapida?</h2>
+                    <h2>Dúvida rápida?</h2>
                     <ul class="breadcrumb">
-                        <li class="breadcrumb-item">Manda um Direct no IG<a href="#"></a></li>
+                        <li class="breadcrumb-item"><a href="https://www.instagram.com/enepetma/">Manda um direct!</a></li>
                     </ul>
                 </div>
             </div>
@@ -84,101 +263,10 @@
 
     <!-- End Cart -->
 
-    <!-- Start Instagram Feed  
-    <div class="instagram-box">
-        <div class="main-instagram owl-carousel owl-theme">
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-01.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-02.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-03.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-04.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-05.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-06.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-07.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-08.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-09.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="ins-inner-box">
-                    <img src="images/instagram-img-05.jpg" alt="" />
-                    <div class="hov-in">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
-    <!-- End Instagram Feed  -->
+ 
 
     <?php include "footer.php" ?>
 
-    <!-- Start copyright  -->
-    <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2018 <a href="#">ThewayShop</a> Design By :
-            <a href="https://html.design/">html design</a></p>
-    </div>
-    <!-- End copyright  -->
 
     <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
 
