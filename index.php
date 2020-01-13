@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-all text-center">
-                        <h1>Fique ligado!</h1>
+                        <h1>Programação quase pronta!</h1>
                         <p>As últimas notícias diretamente dos bastidores da organização do evento!</p>
                     </div>
                 </div>
@@ -63,11 +63,11 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
-                                <h3>Notícias vindo da reitoria</h3>
-                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                                <h3>Siga-nos no Instagram!</h3>
+                                <p>Para ficar ligado nas últimas atualizações do evento, siga-nos! Lá estaremos postando as mais quentes notícias, com uma equipe pronta para atender todas as suas necessidades e tentar te ajudar a solucionar todas as suas dúvidas! Acessa lá!</p>
                             </div>
                             <ul class="option-blog">
-                                <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                                <li><a href="https://www.instagram.com/enepetma/" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -77,10 +77,10 @@
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Programação saindo do forno!</h3>
-                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                                <p>Nossa prorgamação está quase saindo! Fique ligado nas nossas redes sociais para mais infomações!</p>
                             </div>
                             <ul class="option-blog">
-                                <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                                <li><a href="" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -89,11 +89,11 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
-                                <h3>Siga-nos no Instagram!</h3>
-                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                                <h3>Notícias vindo da reitoria!</h3>
+                                <p>SÃO LUÍS - Na manhã de terça-feira, 7, o reitor Natalino Salgado se reuniu com integrantes de 13 grupos do Programa de Educação Tutorial (PET) da UFMA para garantir apoio ao XIX Encontro Nordestino dos Grupos do PET (Enepet), que será sediado na Cidade Universitária entre os dias 19 e 21 de abril deste ano. O evento receberá entre 700 e 900 participantes de vários grupos PETs nordestinos para deliberarem sobre a educação no ensino superior, entre plenárias, palestras, oficinas e outras atividades previstas. </p>
                             </div>
                             <ul class="option-blog">
-                            <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=55562" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
                             </ul>
                         </div>
                     </div>

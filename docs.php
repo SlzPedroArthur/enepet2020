@@ -20,7 +20,7 @@
                                 </div>
                                 <div class="service-desc">
                                     <h4>Editais</h4>
-                                    <p>Track, return, or buy things again</p>
+                                    <p>Lista de todos os editais</p>
                                 </div>
                             </div>
                         </div>
@@ -29,11 +29,11 @@
                         <div class="account-box">
                             <div class="service-box">
                                 <div class="service-icon">
-                                    <a href="construction.php"><i class="fa fa-info"></i> </a>
+                                    <a href="docslist.php"><i class="fa fa-info"></i> </a>
                                 </div>
                                 <div class="service-desc">
                                     <h4>ATAs</h4>
-                                    <p>Edit login, name, and mobile number</p>
+                                    <p>Baixe as atas do evento</p>
                                 </div>
                             </div>
                         </div>
@@ -45,8 +45,8 @@
                                     <a href="construction.php"> <i class="fa fa-pen"></i> </a>
                                 </div>
                                 <div class="service-desc">
-                                    <h4>Artigos</h4>
-                                    <p>Edit addresses for orders and gifts</p>
+                                    <h4>Resumos</h4>
+                                    <p>Resumo publicados</p>
                                 </div>
                             </div>
                         </div>

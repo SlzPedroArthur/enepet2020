@@ -8,17 +8,20 @@
                 <div class="col-lg-4 col-sm-12">
                     <div class="contact-info-left">
                         <hr> 
-                        <h2>CONTATO</h2>
+                        <h2>Ainda em construção!</h2>
                         <p>Alguma dúvida? Proposta? Comentário? Envie-nos um email! Basta preencher os requerimento ao lado.</p>
                         <ul>
                             <li>
                                 <p><i class="fas fa-map-marker-alt"></i>Endereço: Av. dos Portugueses, 1966<br>Vila Bacanga São Luís - MA,<br> CEP 65080-805  </p>
                             </li>
                             <li>
-                                <p><i class="fas fa-phone-square"></i>Prof. Marilda da Conceição: (98) 98773-6064</a></p>
+                                <p><i class="fas fa-phone-square"></i> Coord. docente: Prof. Marilda da Conceição: (98) 98773-6064</a></p>
+                            </li>
+							<li>
+                                <p><i class="fas fa-phone-square"></i> Coord.docente suplente: Prof. Camila Sampaio : (98) 982089-8947</a></p>
                             </li>
                             <li>
-                                <p><i class="fas fa-phone-square"></i>Alan Potter: (98) 98804-0523</a></p>
+                                <p><i class="fas fa-phone-square"></i>Coord. discente: Allan Potter: (98) 98804-0523</a></p>
                             </li>
                             <li>
                                 <p><i class="fas fa-envelope"></i><a>enepet-2020@googlegroups.com</a></p>
@@ -73,7 +76,7 @@
     <div  class="services-box-main">
 	    <div class="container">
             <div class="title-all text-center">
-                <h1>PATROCINADORES</h1>
+                <h1>ORGANIZADORES</h1>
                 <p>Saiba quem são os patrocinadores do ENEPET 2020!</p><br>
             </div>
 		    <div class="row mx-auto my-auto">
