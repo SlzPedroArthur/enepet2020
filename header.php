@@ -60,7 +60,7 @@
                     <li class="nav-item"><a class="nav-link" href="local.php">Local</a></li>
                     <li class="nav-item"><a class="nav-link" href="submissions.php">Submissões</a></li>
                     <li class="nav-item"><a class="nav-link" href="docs.php">Documentos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact-us.php">Sobre Nós</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.php">Sobre Nós</a></li>
 
                 <!-- /.navbar-collapse -->
 

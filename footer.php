@@ -26,6 +26,17 @@
                             </ul>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-widget">
+                            <h4>Apoio e Organização</h4>
+                            <div class="col-sm-12">
+                                <img style="height:150px;" src="images/logo/logoUFMA.png" class="img-logo" alt="UFMA">
+                            </div>
+                            <div class="col-sm-12">
+                                <img style="height:50px;" src="images/logo/logoPET.jpeg" class="img-logo" alt="PET UFMA">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

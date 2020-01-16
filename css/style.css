@@ -193,14 +193,16 @@ Author URI: Your website address.
      outline: 0;
 }
  p{
-     margin: 0px;
+    margin: 0px;
 }
 img {
    width: 100%; 
 }
 
-.img-container{
-    
+.img-logo{
+    width: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
  .bootstrap-select .dropdown-toggle:focus{
      outline: none !important;

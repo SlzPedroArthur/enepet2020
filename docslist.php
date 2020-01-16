@@ -25,26 +25,10 @@
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>Edital com instruções para os trabalhos do evento.</p>
+                                        <p></p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Baixe aqui</a>
-                                    </td>
-                                    
-                                </tr>
-                                <tr>
-								</a>
-                                    </td>
-                                    <td class="name-pr">
-                                        <a href="#">
-									Edital de Vulnerabilidade Socioeconomica
-								</a>
-                                    </td>
-                                    <td class="price-pr">
-                                        <p>Edital para desconto na inscrição.</p>
-                                    </td>
-                                    <td class="add-pr">
-                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1xF4IXhnN0AjLI1KgSxw6azCn9ZiQTPsV">Baixe aqui</a>
                                     </td>
                                     
                                 </tr>
