@@ -22,7 +22,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de Vulnerabilidade<br>Socioeconômica</strong></h1>
                             <p class="m-b-40">Clique aqui para<br>acessar o edital.</p>
-                            <p><a class="btn hvr-hover" href="https://www.instagram.com/enepetma/">Acesse!</a></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1xF4IXhnN0AjLI1KgSxw6azCn9ZiQTPsV">Acesse!</a></p>
                         </div>
                     </div>
                 </div>
