@@ -17,7 +17,7 @@
 
     <!-- Site Icons -->
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="images/icon.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -36,11 +36,13 @@
 </head>
 
 <body>
+
+
     <!-- Start Main Top -->
-    <header class="main-header fixed-menu">
+    <header class="main-header">
         <!-- Start Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-default bootsnav">
-            <div class="container-fluid">
+            <div class="container">
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,32 +53,20 @@
                 <!-- End Header Navigation -->
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
-                    <li class="nav-item"><a class="nav-link" href="construction.php">Programação</a></li>
-                    <li class="dropdown">
-                        <a class="nav-link" href="#">Local</a>
-                        <ul class ="dropdown-menu">
-                            <li><a class="dropdown-item" href="construction.php">Alimentação</a></li>
-                            <li><a class="dropdown-item" href="construction.php">Transporte</a></li>
-                        </ul>   
-                    </li>
-                    <li class="dropdown">
-                        <a class="nav-link" href="#">Submissões</a>
-                        <ul class ="dropdown-menu">
-                            <li><a class="dropdown-item" href="construction.php">Anais</a></li>
-                            <li><a class="dropdown-item" href="construction.php">Artigos</a></li>
-                            <li><a class="dropdown-item" href="construction.php">Encontros</a></li>
-                            <li><a class="dropdown-item" href="construction.php">Oficinas</a></li>
-                            <li><a class="dropdown-item" href="construction.php">Resumos</a></li>
-                        </ul>   
-                    </li>
-                    <li class="nav-item"><a class="nav-link" href="construction.php">Organização</a></li>
-                    <li class="nav-item"><a class="nav-link" href="construction.php">Contato</a></li>
-                </ul>
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
+                    <li class="nav-item"><a class="nav-link" href="construction.php">Increva-se</a></li>
+                    <li class="nav-item"><a class="nav-link" href="schedule.php">Programação</a></li>
+                    <li class="nav-item"><a class="nav-link" href="local.php">Local</a></li>
+                    <li class="nav-item"><a class="nav-link" href="submissions.php">Submissões</a></li>
+                    <li class="nav-item"><a class="nav-link" href="docs.php">Documentos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact-us.php">Sobre Nós</a></li>
+
+                <!-- /.navbar-collapse -->
+
             </div>
-            <!-- /.navbar-collapse -->
+            
         </nav>
         <!-- End Navigation -->
     </header>
-    <div class="custom-container">
     <!-- End Main Top -->
