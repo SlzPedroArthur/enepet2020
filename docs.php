@@ -20,7 +20,7 @@
                                 </div>
                                 <div class="service-desc">
                                     <h4>Editais</h4>
-                                    <p>Todos os editais referentes ao evento!</p>
+                                    <p>Todos os editais do evento!</p>
                                 </div>
                             </div>
                         </div>
