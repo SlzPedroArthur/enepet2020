@@ -33,7 +33,7 @@
                                 </div>
                                 <div class="service-desc">
                                     <h4>ATAs</h4>
-                                    <p>Edit login, name, and mobile number</p>
+                                    <p>Atas das reuniões e assembleias.</p>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="service-desc">
                                     <h4>Resumo Expandido</h4>
-                                    <p>Todos os trabalhos submetidos ao evento.</p>
+                                    <p>Resumos publicados no evento.</p>
                                 </div>
                             </div>
                         </div>
@@ -60,6 +60,10 @@
         </div>
     <!-- End My Account -->
     
+    <div class="title-all text-center"> 
+                <h1></h1>   
+                <h1>Modelos de Documentos</h1>  
+            </div>
      <div class="wishlist-box-main">
         <div class="container">
             <div class="row">
@@ -83,10 +87,10 @@
                                 </a>
                                     </td>
                                     <td class="price-pr">
-                                        <p></p>
+                                        <p>Template para Resumos para serem submetidos ao evento</p>
                                     </td>
                                     <td class="add-pr">
-                                        <a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Baixe aqui</a>
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1X26DLXKHVWw0IczZmdNJm30TkmVCcwrO">Baixe aqui</a>
                                     </td>
                                     
                                 </tr>
@@ -100,10 +104,10 @@
                                 </a>
                                     </td>
                                     <td class="price-pr">
-                                        <p></p>
+                                        <p>Template de Slide para apresentações durante o evento</p>
                                     </td>
                                     <td class="add-pr">
-                                        <a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Baixe aqui</a>
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1zcLt8vSLH8Tge5QC5cEu4bnI-ErkPx8t">Baixe aqui</a>
                                     </td>
                                     
                                 </tr>
@@ -115,12 +119,13 @@
                                         <a href="#">
                                    Banner
                                 </a>
+
                                     </td>
                                     <td class="price-pr">
-                                        <p></p>
+                                        <p>>Template do Banner para apresentação de trabalhos</p>
                                     </td>
                                     <td class="add-pr">
-                                        <a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Baixe aqui</a>
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=15UUWE7sN5_m4Q3KC5UoHjg5O5DWsMVnR">Baixe aqui</a>
                                     </td>
                                     
                                 </tr>

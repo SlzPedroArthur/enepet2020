@@ -10,7 +10,7 @@
             <div class="title-all text-center">
                 <h1>O que é o ENEPET 2020?</h1>
             </div>
-                <p>O XIX Encontro Nordestino dos Grupos PET – ENEPET 2020 acontecerá nos  dias 18, 19, 20 e 21 de abril de 2020 na UFMA e tem como tema: Liberdade, Equidade e Pluralidade: O PET em luta pela autonomia da Universidade. O evento contará com a participação de grupos PET de toda a região Nordeste, formado por professores e estudantes de diferentes áreas do conhecimento. O evento é de grande relevância para o aprimoramento do ensino universitário em sua interface com a pesquisa e a extensão, além de debater sobre o papel da universidade pública brasileira, sua importância e a necessidade de se pensar no ensino público de qualidade e na produção de conhecimento socialmente comprometida.
+                <p align="justify">O XIX Encontro Nordestino dos Grupos PET – ENEPET 2020 acontecerá nos  dias 18, 19, 20 e 21 de abril de 2020 na UFMA e tem como tema: Liberdade, Equidade e Pluralidade: O PET em luta pela autonomia da Universidade. O evento contará com a participação de grupos PET de toda a região Nordeste, formado por professores e estudantes de diferentes áreas do conhecimento. O evento é de grande relevância para o aprimoramento do ensino universitário em sua interface com a pesquisa e a extensão, além de debater sobre o papel da universidade pública brasileira, sua importância e a necessidade de se pensar no ensino público de qualidade e na produção de conhecimento socialmente comprometida.
                 O ENEPET 2020, organizado pelos grupos PET da UFMA segue o modelo proposto pela Comissão Nacional Executiva do PET (CENAPET) e se caracteriza por assembléias, grupos de discussão e trabalhos, apresentação de trabalhos, atividades culturais, palestras e conferências. </p>
             </div>
         </div>
@@ -26,21 +26,19 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoComp.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETBiblio.jpeg"><br>
                                         <h5>PET Biblioteconomia</h5>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <div class="img-container">
-                                            <img class="d-block col-10 img-fluid" src="images/logo/logoTBio.jpeg"><br>
-                                        </div>
+                                        <img class="img-slider" src="images/logo/logoPETBio.jpeg"><br>
                                         <h5>PET Biologia</h5>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoET.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETCS.jpeg"><br>
                                         <h5>PET Ciências Sociais</h5>                 
                                     </div>                                  
                                 </div>
@@ -50,21 +48,19 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoComp.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETComp.jpeg"><br>
                                         <h5>PET Computação</h5>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <div class="img-container">
-                                            <img class="d-block col-10 img-fluid" src="images/logo/logoTBio.jpeg"><br>
-                                        </div>
+                                        <img class="img-slider" src="images/logo/logoPETDireito.jpeg"><br>
                                         <h5>PET Direito</h5>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoET.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETFis.jpeg"><br>
                                         <h5>PET Física</h5>                 
                                     </div>                                  
                                 </div>
@@ -74,47 +70,55 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoComp.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETConexões.jpeg"><br>
                                         <h5>PET Conexões de Saberes<br>Comunidades Populares</h5>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <div class="img-container">
-                                            <img class="d-block col-10 img-fluid" src="images/logo/logoTBio.jpeg"><br>
-                                        </div>
+                                        <img class="img-slider" src="images/logo/logoPET--.jpeg"><br>
                                         <h5>PET Conexões de Saberes<br>Direitos Humanos</h5>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoET.jpeg"><br>
-                                        <h5>PET Conexões de Saberes<br>Espaços Sociopedagógicos</h5>                 
+                                        <img class="img-slider" src="images/logo/logoPETCSES.jpeg"><br>
+                                        <h5>PET Conexões de Saberes<br>Espaços Sociopedagógicos</h5> 
                                     </div>                                  
                                 </div>
                             </div>
                         </div> 
-                         <div class="carousel-item">
+                        <div class="carousel-item">
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoComp.jpeg"><br>
-                                        <h5>PET Ciências Naturais<br>Campus Grajaú e Bacabal</h5>                    
+                                        <img class="img-slider" src="images/logo/logoPETCNGr.jpeg"><br>
+                                        <h5>PET Ciências Naturais<br>Campus Grajaú</h5>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
                                         <div class="img-container">
-                                            <img class="d-block col-10 img-fluid" src="images/logo/logoTBio.jpeg"><br>
+                                            <img class="img-slider" src="images/logo/logoPETCS.jpeg"><br>
                                         </div>
                                         <h5>PET Conexões de Saberes<br>Campus Imperatriz</h5>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="d-block col-10 img-fluid" src="images/logo/logoET.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETSC.jpeg"><br>
                                         <h5>PET Educação de Campo</h5>                 
                                     </div>                                  
+                                </div>
+                            </div>
+                        </div> 
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-sm">
+                                    <div class="title-all text-center">
+                                        <img class="img-slider" src="images/logo/logoPETCN.jpeg"><br>
+                                        <h5>PET Ciências Naturais<br>Campus Bacabal</h5>                    
+                                    </div>  
                                 </div>
                             </div>
                         </div> 

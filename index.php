@@ -64,10 +64,10 @@
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Notícias vindo da reitoria</h3>
-                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                                <p>UFMA/Notícias: UFMA sediará em 2020 o XIX Encontro Nordestino dos Grupos do Programa de Educação Tutorial.</p>
                             </div>
                             <ul class="option-blog">
-                                <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                                <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=54097" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -77,10 +77,10 @@
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Programação saindo do forno!</h3>
-                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                                <p>UFMA/Notícias: Reitora recebe comissão do XIX ENEPET para planejar a realização do evento em 2020 na UFMA.</p>
                             </div>
                             <ul class="option-blog">
-                                <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                                <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=54759" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -90,10 +90,10 @@
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Siga-nos no Instagram!</h3>
-                                <p>Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat. Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</p>
+                                <p>Então pessoal, se você ainda não sabe como entrar em contato com a gente, se liga e chama no direct do IG. Recado tá dado. </p>
                             </div>
                             <ul class="option-blog">
-                            <li><a href="#" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            <li><a href="https://www.instagram.com/enepetma/" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -103,15 +103,14 @@
     </div>
     <!-- End Blog  -->
 
-
-<!-- Start Info  -->
+    <!-- Start Info  -->
     <div class="latest-blog">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-all text-center">
                         <h1>Sobre</h1>
-                        <p>O XIX Encontro Nordestino dos Grupos PET (ENEPET) traz consigo o tema: Liberdade, equidade e pluralidade: o PET em luta pela autonomia da universidade. Nós, da organização do ENEPET, acreditamos que resistimos e lutamos pela autonomia do programa ao compartilhar experiências, ideias e conhecimentos sobre o ser petiana(o); que é por meio do diálogo entre grupos, Comitê Local de Acompanhamento e Avaliação (CLAAs) e IES, que conseguimos fortalecer o PET Nordeste, afinal, é na rotina das reuniões e atividades que entendemos o real significado do aprender, fazendo e refletindo sobre. Assim, buscamos construir uma programação que abarcasse da melhor forma a realidade de todos os grupos, para que possamos juntos propor as mudanças que queremos consolidar cada vez mais em nosso programa. A gente se vê em São Luís/MA! </p>
+                        <p align="justify">O XIX Encontro Nordestino dos Grupos PET (ENEPET) traz consigo o tema: Liberdade, equidade e pluralidade: o PET em luta pela autonomia da universidade. Nós, da organização do ENEPET, acreditamos que resistimos e lutamos pela autonomia do programa ao compartilhar experiências, ideias e conhecimentos sobre o ser petiana(o); que é por meio do diálogo entre grupos, Comitê Local de Acompanhamento e Avaliação (CLAAs) e IES, que conseguimos fortalecer o PET Nordeste, afinal, é na rotina das reuniões e atividades que entendemos o real significado do aprender, fazendo e refletindo sobre. Assim, buscamos construir uma programação que abarcasse da melhor forma a realidade de todos os grupos, para que possamos juntos propor as mudanças que queremos consolidar cada vez mais em nosso programa. A gente se vê em São Luís/MA! </p>
                     </div>
                 </div>
             </div>

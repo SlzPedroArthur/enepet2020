@@ -198,6 +198,11 @@ Author URI: Your website address.
 img {
    width: 100%; 
 }
+.img-slider{
+    width: 200px;
+    height:100px;
+    overflow: : hidden;
+}
 
 .img-logo{
     width: 150px;
