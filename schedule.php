@@ -32,7 +32,7 @@
                             <img onclick="document.getElementById('id01').style.display='block'" src="images/day1.png" class="img-fluid" alt="Image">
                             <div id="id01" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/day1.jpg" class="img-fluid" alt="Image">
+                                    <img src="images/day1.png" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@
                             <img onclick="document.getElementById('id01').style.display='block'" src="images/day2.png" class="img-fluid" alt="Image">
                             <div id="id01" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/day1.jpg" class="img-fluid" alt="Image">
+                                    <img src="images/day2.png" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -66,7 +66,7 @@
                             <img onclick="document.getElementById('id01').style.display='block'" src="images/day3.png" class="img-fluid" alt="Image">
                             <div id="id01" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/day1.jpg" class="img-fluid" alt="Image">
+                                    <img src="images/day3.png" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@
                             <img onclick="document.getElementById('id01').style.display='block'" src="images/day4.png" class="img-fluid" alt="Image">
                             <div id="id01" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/day1.jpg" class="img-fluid" alt="Image">
+                                    <img src="images/day4.png" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
