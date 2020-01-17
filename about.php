@@ -76,7 +76,7 @@
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPET--.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETSC.jpeg"><br>
                                         <h5>PET Conexões de Saberes<br>Direitos Humanos</h5>                 
                                     </div>  
                                 </div>
@@ -106,7 +106,7 @@
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETSC.jpeg"><br>
+                                        <img class="img-slider" src="images/logo/logoPETCSEC.jpeg"><br>
                                         <h5>PET Educação de Campo</h5>                 
                                     </div>                                  
                                 </div>

@@ -61,7 +61,6 @@
     <!-- End My Account -->
     
     <div class="title-all text-center"> 
-                <h1></h1>   
                 <h1>Modelos de Documentos</h1>  
             </div>
      <div class="wishlist-box-main">
@@ -104,7 +103,7 @@
                                 </a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>Template de Slide para apresentações durante o evento</p>
+                                        <p>Template de Slide para apresentação de trabalhos</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=1zcLt8vSLH8Tge5QC5cEu4bnI-ErkPx8t">Baixe aqui</a>
@@ -122,7 +121,7 @@
 
                                     </td>
                                     <td class="price-pr">
-                                        <p>>Template do Banner para apresentação de trabalhos</p>
+                                        <p>Template do Banner para apresentação de trabalhos</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=15UUWE7sN5_m4Q3KC5UoHjg5O5DWsMVnR">Baixe aqui</a>
