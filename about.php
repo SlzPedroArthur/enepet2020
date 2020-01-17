@@ -17,7 +17,7 @@
         <div class="container">
             <div class="title-all text-center">
                 <h1>PETs</h1>
-                <p>Saiba quem são os PETs sediadores do ENEPET 2020!</p><br>
+                <p>Saiba quem são os PETs organizadores do ENEPET 2020!</p><br>
             </div>
             <div class="row mx-auto my-auto">
                 <div id="recipeCarousel2" class="carousel slide w-100" data-ride="carousel">
@@ -99,7 +99,7 @@
                                 <div class="col-sm">
                                     <div class="title-all text-center">
                                         <div class="img-container">
-                                            <img class="img-slider" src="images/logo/logoPETCS.jpeg"><br>
+                                            <img class="img-slider" src="images/logo/logoPETSCImp.jpeg"><br>
                                         </div>
                                         <h5>PET Conexões de Saberes<br>Campus Imperatriz</h5>                 
                                     </div>  
