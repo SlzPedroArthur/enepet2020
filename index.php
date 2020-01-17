@@ -22,7 +22,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de Vulnerabilidade<br>Socioeconômica</strong></h1>
                             <p class="m-b-40">Clique aqui para<br>acessar o edital.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1xF4IXhnN0AjLI1KgSxw6azCn9ZiQTPsV">Acesse!</a></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1xF4IXhnN0AjLI1KgSxw6azCn9ZiQTPsV">Edital</a></p>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de Submissão <br> de Trabalhos.</strong></h1>
                             <p class="m-b-40">Clique no link<br>abaixo para ter acesso.</p>
-                            <p><a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Saiba mais!</a></p>
+                            <p><a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Edital</a></p>
                         </div>
                     </div>
                 </div>
