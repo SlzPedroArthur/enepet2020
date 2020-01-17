@@ -9,7 +9,7 @@
                             <h4>Fale Conosco</h4>
                             <ul>
                                 <li>
-                                    <p><i class="fas fa-map-marker-alt"></i>Endereço:
+                                    <p>Endereço:
                                         <a href="https://www.google.com/maps/place/Pr%C3%A9dio+Castelo+Branco+-+Av.+dos+Portugueses,+1966+-+S%C3%A1+Viana,+S%C3%A3o+Lu%C3%ADs+-+MA,+65080-805/data=!4m2!3m1!1s0x7f68f436d434ca3:0xd59d9c4cd735c339?sa=X&ved=2ahUKEwii8Le7yYjnAhU2ErkGHU0xCRoQ8gEwAHoECAsQAQ">Av. dos Portugueses, 1966 - Vila Bacanga, São Luís - MA,<br> CEP 65080-805 </a></p>
                                 </li>
                                 <li>

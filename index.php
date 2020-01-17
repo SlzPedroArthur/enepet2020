@@ -63,6 +63,19 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
+                                <h3>Inscrições para Avaliadores de Trabalhos!</h3>
+                                <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://forms.gle/LZZMMM99Yb3ZSCvUA" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
                                 <h3> Edital de Inscrição disponível! </h3>
                                 <p>Você já pode acessar o EDITAL para ter todas as informações relacionadas ao evento.</p>
                             </div>
