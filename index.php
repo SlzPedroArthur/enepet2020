@@ -10,7 +10,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de <br>Inscriçoes!</strong></h1>
                             <p class="m-b-40"> Clique aqui para <br> acessar o edital!</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=15UUWE7sN5_m4Q3KC5UoHjg5O5DWsMVnR">Edital</a></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1lB3zqhiEQHwAvxUJWPaFMYlddrbmGjZD">Edital</a></p>
                         </div>
                     </div>
                 </div>
