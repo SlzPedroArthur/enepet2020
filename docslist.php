@@ -49,7 +49,22 @@
                                     </td>   
                                     
                                 <tr>
-								
+                                <tr>    
+                                </a>    
+                                    </td>   
+                                    <td class="name-pr">    
+                                        <a href="#">    
+                                    Edital de Inscrição    
+                                </a>    
+                                    </td>   
+                                    <td class="price-pr">   
+                                        <p>Instruções para as inscrições.</p>   
+                                    </td>   
+                                    <td class="add-pr"> 
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1lB3zqhiEQHwAvxUJWPaFMYlddrbmGjZD">Baixe aqui</a>   
+                                    </td>   
+                                    
+                                <tr>
                             </tbody>
                         </table>
                     </div>
