@@ -1,7 +1,5 @@
 <?php include "header.php"?>
 
-    <!-- Start Title  -->
-    <!-- End Title -->
     <!-- Start My Account  -->
 
         <div class="container">
@@ -89,7 +87,7 @@
                                         <p>Template para Resumos para serem submetidos ao evento</p>
                                     </td>
                                     <td class="add-pr">
-                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1X26DLXKHVWw0IczZmdNJm30TkmVCcwrO">Baixe aqui</a>
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1Ma1Ms3s1W5MGkvborjkR-WXmfr7t6ztT">Baixe aqui</a>
                                     </td>
                                     
                                 </tr>

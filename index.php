@@ -63,6 +63,19 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
+                                <h3>Modelo de documentos já disponíveis!</h3>
+                                <p>Você já pode acessar os modelos para os resumos, banners e apresentação de slides. Acesse todos eles clicando aqui!</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="docs.php" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
                                 <h3>Inscrições para Avaliadores de Trabalhos!</h3>
                                 <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
                             </div>
