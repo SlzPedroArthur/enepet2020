@@ -33,7 +33,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de Submissão <br> de Trabalhos</strong></h1>
-                            <p class="m-b-40">Clique no link<br>abaixo para ter acesso.</p>
+                            <p class="m-b-40">Clique no link<br>abaixo para ter acesso ao edital para saber como submeter seus resumos e como funcionará as apresentações.</p>
                             <p><a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Edital</a></p>
                         </div>
                     </div>
@@ -103,7 +103,7 @@
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Edital de Vulnerabilidade Socioeconômica</h3>
-                                <p>Saiba mais como obter descontos nas inscrições! Siga todas instruções disponíveis .</p>
+                                <p>Saiba mais como obter descontos nas inscrições! Siga todas instruções disponíveis.</p>
                             </div>
                             <ul class="option-blog">
                                 <li><a href="https://drive.google.com/file/d/1xF4IXhnN0AjLI1KgSxw6azCn9ZiQTPsV/view" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
