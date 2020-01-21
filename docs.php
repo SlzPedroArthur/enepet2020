@@ -1,5 +1,7 @@
 <?php include "header.php"?>
 
+    <!-- Start Title  -->
+    <!-- End Title -->
     <!-- Start My Account  -->
 
         <div class="container">
@@ -84,10 +86,10 @@
                                 </a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>Template para Resumos para serem submetidos ao evento</p>
+                                        <p> Template de Resumos para serem submetidos ao evento.</p>
                                     </td>
                                     <td class="add-pr">
-                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1Ma1Ms3s1W5MGkvborjkR-WXmfr7t6ztT">Baixe aqui</a>
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1X26DLXKHVWw0IczZmdNJm30TkmVCcwrO">Baixe aqui</a>
                                     </td>
                                     
                                 </tr>
@@ -101,7 +103,7 @@
                                 </a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>Template de Slide para apresentação de trabalhos</p>
+                                        <p>Template de Slide para apresentação de trabalhos.</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=1zcLt8vSLH8Tge5QC5cEu4bnI-ErkPx8t">Baixe aqui</a>
@@ -119,7 +121,7 @@
 
                                     </td>
                                     <td class="price-pr">
-                                        <p>Template do Banner para apresentação de trabalhos</p>
+                                        <p>Template do Banner para apresentação de trabalhos.</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=15UUWE7sN5_m4Q3KC5UoHjg5O5DWsMVnR">Baixe aqui</a>
