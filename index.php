@@ -63,8 +63,21 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
-                                <h3> Edital de Inscrição disponível! </h3>
-                                <p>Você já pode acessar o Edital para ter todas as informações relacionadas ao evento.</p>
+                                <h3>Inscrições para Avaliadores de Trabalhos!</h3>
+                                <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://forms.gle/LZZMMM99Yb3ZSCvUA" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3> Edital de Inscrição disponível </h3>
+                                <p>Você já pode acessar o Edital para ter todas as informações relacionadas as inscrições, como prazos e valores.</p>
                             </div>
                             <ul class="option-blog">
                                 <li><a href="https://drive.google.com/file/d/1lB3zqhiEQHwAvxUJWPaFMYlddrbmGjZD/view" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
@@ -89,7 +102,7 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
-                                <h3>Edital de Submissão de Trabalhos!</h3>
+                                <h3>Edital de Submissão de Trabalhos</h3>
                                 <p>O Edital para Submissão de Trabalhos já está disponível para download. Neste edital você pode saber todos os detalhes sobre os Resumos Expandidos que serão apresentado no ENEPET 2020.</p>
                             </div>
                             <ul class="option-blog">

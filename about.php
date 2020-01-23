@@ -26,20 +26,20 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETBiblio.jpeg"><br>
-                                        <h5>PET Biblioteconomia</h5>                    
+                                        <a href="https://www.instagram.com/petbiblioufma/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETBiblio.jpeg"></a><br>
+                                        <h4>PET Biblioteconomia</h4>             
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETBio.jpeg"><br>
-                                        <h5>PET Biologia</h5>                 
+                                        <a href="https://www.instagram.com/petbioufma/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETBio.jpeg"></a><br>
+                                        <h4>PET Biologia</h4>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETCS.jpeg"><br>
-                                        <h5>PET Ciências Sociais</h5>                 
+                                        <a href="https://www.instagram.com/petcienciasociais/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETCS.jpeg"></a><br>
+                                        <h4>PET Ciências Sociais</h4>                 
                                     </div>                                  
                                 </div>
                             </div>
@@ -48,20 +48,20 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETComp.jpeg"><br>
-                                        <h5>PET Computação</h5>                    
+                                        <a href="https://www.instagram.com/petcompufma/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETComp.jpeg"></a><br>
+                                        <h4>PET Computação</h4>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETDireito.jpeg"><br>
-                                        <h5>PET Direito</h5>                 
+                                        <a href="https://www.instagram.com/petdireitoufma/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETDireito.jpeg"></a><br>
+                                        <h4>PET Direito</h4>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETFis.jpeg"><br>
-                                        <h5>PET Física</h5>                 
+                                        <a href="https://www.instagram.com/petfisicaufma/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETFisica.jpg"></a><br>
+                                        <h4>PET Física</h4>                 
                                     </div>                                  
                                 </div>
                             </div>
@@ -70,20 +70,20 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETConexões.jpeg"><br>
-                                        <h5>PET Conexões de Saberes<br>Comunidades Populares</h5>                    
+                                        <a href="https://www.instagram.com/petcomunidadespopulares/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETConexões.jpeg"></a><br>
+                                        <h4>PET Conexões de Saberes<br>Comunidades Populares</h4>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETSC.jpeg"><br>
-                                        <h5>PET Conexões de Saberes<br>Direitos Humanos</h5>                 
+                                        <a href="https://www.instagram.com/petdireitoshumanos/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETSC.jpeg"></a><br>
+                                        <h4>PET Conexões de Saberes<br>Direitos Humanos</h4>                 
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETCSES.jpeg"><br>
-                                        <h5>PET Conexões de Saberes<br>Espaços Sociopedagógicos</h5> 
+                                        <a href="https://www.instagram.com/petespufma/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETCSES.jpeg"></a><br>
+                                        <h4>PET Conexões de Saberes<br>Espaços Sociopedagógicos</h4> 
                                     </div>                                  
                                 </div>
                             </div>
@@ -92,22 +92,20 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETCNGr.jpeg"><br>
-                                        <h5>PET Ciências Naturais<br>Campus Grajaú</h5>                    
+                                        <a href="https://www.instagram.com/petcienciasnaturais/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETCNGr.jpeg"></a><br>
+                                        <h4>PET Ciências Naturais<br>Campus Grajaú</h4>                    
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <div class="img-container">
-                                            <img class="img-slider" src="images/logo/logoPETSCImp.jpeg"><br>
-                                        </div>
-                                        <h5>PET Conexões de Saberes<br>Campus Imperatriz</h5>                 
+                                        <a href="https://www.instagram.com/pet_ufma_imperatriz/"><img class="img-slider" src="images/logo/logoPETSCImp.jpeg"></a><br>
+                                        <h4>PET Conexões de Saberes<br>Campus Imperatriz</h4>              
                                     </div>  
                                 </div>
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETCSEC.jpeg"><br>
-                                        <h5>PET Educação de Campo</h5>                 
+                                        <a href="https://www.instagram.com/petufmaeducacaodo/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETCSEC.jpeg"></a><br>
+                                        <h4>PET Educação de Campo</h4>               
                                     </div>                                  
                                 </div>
                             </div>
@@ -116,8 +114,8 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="title-all text-center">
-                                        <img class="img-slider" src="images/logo/logoPETCN.jpeg"><br>
-                                        <h5>PET Ciências Naturais<br>Campus Bacabal</h5>                    
+                                        <a href="https://www.instagram.com/petcienciasnaturaisbac/?hl=pt-br"><img class="img-slider" src="images/logo/logoPETCN.jpeg"></a><br>
+                                        <h4>PET Ciências Naturais<br>Campus Bacabal</h4>
                                     </div>  
                                 </div>
                             </div>
