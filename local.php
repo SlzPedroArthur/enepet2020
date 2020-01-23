@@ -80,7 +80,7 @@
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div class="shop-cat-box">
                         <img class="img-fluid" src="images/turism5.jpg" alt="" />
-                        <a class="btn hvr-hover" href="https://www.google.com.br/maps/place/Museu+do+Reggae+Maranh%C3%A3o/@-2.5289015,-44.307705,17z/data=!3m1!4b1!4m5!3m4!1s0x7f68edd4408f051:0x4ea414ae0276d1e6!8m2!3d-2.5289069!4d-44.305511">Museu do Reage</a>
+                        <a class="btn hvr-hover" href="https://www.google.com.br/maps/place/Museu+do+Reggae+Maranh%C3%A3o/@-2.5289015,-44.307705,17z/data=!3m1!4b1!4m5!3m4!1s0x7f68edd4408f051:0x4ea414ae0276d1e6!8m2!3d-2.5289069!4d-44.305511">Museu do Reagge</a>
                     </div>
                     <div class="shop-cat-box">
                         <img class="img-fluid" src="images/turism6.jpg" alt="" />
