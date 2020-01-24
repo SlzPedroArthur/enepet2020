@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Reultado do <br>Edital de Vulnerabilidade</strong></h1>
+                            <h1 class="m-b-20"><strong>Resultado do <br>Edital de Vulnerabilidade</strong></h1>
                             <p class="m-b-40"> Os contemplados para o desconto<br> na inscrição do evento já foram escolhidos.</p>
                             <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1AH1lyJd6qX9FH4BIO0YVZEpqRgVbUZU6">Resultado</a></p>
                         </div>
