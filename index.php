@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de <br>Inscrições</strong></h1>
-                            <p class="m-b-40"> As inscrições para o<br>primeiro lote começarão no dia 28/01.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1lB3zqhiEQHwAvxUJWPaFMYlddrbmGjZD">Edital</a></p>
+                            <h1 class="m-b-20"><strong>Reultado do <br>Edital de Vulnerabilidade</strong></h1>
+                            <p class="m-b-40"> Os contemplados para o desconto<br> na inscrição do evento já foram escolhidos.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1AH1lyJd6qX9FH4BIO0YVZEpqRgVbUZU6">Resultado</a></p>
                         </div>
                     </div>
                 </div>
