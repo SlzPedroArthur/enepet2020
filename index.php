@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Resultado do <br>Edital de Vulnerabilidade</strong></h1>
-                            <p class="m-b-40"> Os contemplados para o desconto<br> na inscrição do evento já foram escolhidos.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1AH1lyJd6qX9FH4BIO0YVZEpqRgVbUZU6">Resultado</a></p>
+                            <h1 class="m-b-20"><strong>Inscrições<br>Abertas!</strong></h1>
+                            <p class="m-b-40">As inscrições para o primeiro lote de inscrição já estão abertas!<br>Acesse a plataforma clicando abaixo</p>
+                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Inscrições</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,11 +20,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de<br>inscrições</strong></h1>
-                            <p class="m-b-40">Clique aqui para<br>acessar o edital.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1lB3zqhiEQHwAvxUJWPaFMYlddrbmGjZD">Edital</a></p>
+                            <h1 class="m-b-20"><strong>Resultado do<br>Edital de Vulnerabilidade</strong></h1>
+                            <p class="m-b-40">Os contemplados para o desconto<brna inscrição do evento já foram escolhidos.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1AH1lyJd6qX9FH4BIO0YVZEpqRgVbUZU6">Resultado</a></p>
                         </div>
-                    </div>
+>acessar o edital.                    </div>
                 </div>
             </li>
             <li class="text-right">
