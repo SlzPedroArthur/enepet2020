@@ -59,6 +59,20 @@
                 </div>
             </div>
             <div class="row">
+                
+                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Aberta as Inscrições para o XIX ENEPET</h3>
+                                <p>Poderão se inscrever todos os discentes e docentes pertencentes ao Programa de Educação Tutorial da região Nordeste, mediadores dos grupos PET e demais pessoas da comunidade acadêmica que não são vinculadas ao Programa. Os interessados deverão acessar a plataforma do evento para efetuarem sua inscrição.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=55652"tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
                         <div class="blog-content">
