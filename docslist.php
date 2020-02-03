@@ -65,6 +65,22 @@
                                     </td>   
                                     
                                 <tr>
+				<tr>    
+                                </a>    
+                                    </td>   
+                                    <td class="name-pr">    
+                                        <a href="#">    
+                                    Edital de Monitoria    
+                                </a>    
+                                    </td>   
+                                    <td class="price-pr">   
+                                        <p>Instruções para monitores.</p>   
+                                    </td>   
+                                    <td class="add-pr"> 
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1e3jOuMepgcxk6GPHGNBc9t1NohMQD4br">Baixe aqui</a>   
+                                    </td>   
+                                    
+                                <tr>
                             </tbody>
                         </table>
                     </div>
