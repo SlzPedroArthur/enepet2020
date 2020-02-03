@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Inscrições<br>Abertas!</strong></h1>
-                            <p class="m-b-40">As inscrições para o primeiro lote de inscrição já estão abertas!<br>Acesse a plataforma clicando abaixo</p>
-                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Inscrições</a></p>
+                            <h1 class="m-b-20"><strong>Edital de<br>Monitoria disponível</strong></h1>
+                            <p class="m-b-40">Você já pode acessar o<br>edital com todas a instruções</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1e3jOuMepgcxk6GPHGNBc9t1NohMQD4br">Edital</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,9 +20,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Resultado do<br>Edital de Vulnerabilidade</strong></h1>
-                            <p class="m-b-40">Os contemplados para o desconto<brna inscrição do evento já foram escolhidos.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1AH1lyJd6qX9FH4BIO0YVZEpqRgVbUZU6">Resultado</a></p>
+                            <h1 class="m-b-20"><strong>Inscrições<br>Abertas!</strong></h1>
+                            <p class="m-b-40">As inscrições para o primeiro lote de inscrição já estão abertas!<br>Acesse a plataforma clicando abaixo.</p>
+                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Inscrições</a></p>
                         </div>
 >acessar o edital.                    </div>
                 </div>
@@ -59,7 +59,31 @@
                 </div>
             </div>
             <div class="row">
-                
+                                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Edital de Monitoria disponível</h3>
+                                <p>                <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Inscrições para Avaliadores de Trabalhos!</h3>
+                                <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://pet.ufma.br/enepet2020/docslist.php" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div></p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://forms.gle/LZZMMM99Yb3ZSCvUA" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
                         <div class="blog-content">
