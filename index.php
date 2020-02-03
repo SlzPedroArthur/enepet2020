@@ -64,7 +64,7 @@
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Edital de Monitoria disponível</h3>
-                                <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
+                                <p>O presente edital tem o intuito de selecionar monitores para o XIX ENEPET 2020. A contrapartida será o recebimento de certificação de 24 horas pelas atividades desenvolvidas.</p>
                             </div>
                             <ul class="option-blog">
                                 <li><a href="https://pet.ufma.br/enepet2020/docslist.php" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
