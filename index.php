@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de<br>Monitoria disponível</strong></h1>
-                            <p class="m-b-40">Você já pode acessar o<br>edital com todas a instruções</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1e3jOuMepgcxk6GPHGNBc9t1NohMQD4br">Edital</a></p>
+                            <h1 class="m-b-20"><strong>Fomulário de <br>consulta disponível</strong></h1>
+                            <p class="m-b-40">A estrutura das assembleias dos eventos do PET tem provocado <br>muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Acesse para olhar nossa proposta para os GDT's.</p>
+                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Fomulário</a></p>
                         </div>
                     </div>
                 </div>
