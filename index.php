@@ -131,19 +131,6 @@ A Comissão Organizadora do XIX ENEPET, neste sentido, sintetizou essas proposta
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
-                                <h3>Edital de Vulnerabilidade Socioeconômica</h3>
-                                <p>Saiba mais como obter descontos nas inscrições! Siga todas instruções escritas no Edital.</p>
-                            </div>
-                            <ul class="option-blog">
-                                <li><a href="https://drive.google.com/file/d/1xF4IXhnN0AjLI1KgSxw6azCn9ZiQTPsV/view" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 col-xl-4">
-                    <div class="blog-box">
-                        <div class="blog-content">
-                            <div class="title-blog">
                                 <h3>Edital de Submissão de Trabalhos</h3>
                                 <p>O Edital para Submissão de Trabalhos já está disponível para download. Neste edital você pode saber todos os detalhes sobre os Resumos Expandidos que serão apresentado no ENEPET 2020.</p>
                             </div>
