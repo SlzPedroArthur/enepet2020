@@ -58,6 +58,22 @@
                     </div>
                 </div>
             </div>
+            
+            <div class="row">
+                 <div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Formulário de Consulta disponível</h3>
+                                <p>Mermã e mermão, vem bem aqui rapidão! A estrutura das assembleias dos eventos do PET tem provocado muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Petianos(as) de diferentes Estados do Brasil pensaram em possibilidades que pudessem tornar esse momento mais deliberativo e prático, tendo em vista garantir qualidade, produtividade e celeridade a essa reunião tão importante. 
+A Comissão Organizadora do XIX ENEPET, neste sentido, sintetizou essas propostas sobre a "nova dinâmica" de assembleia e por meio deste questionário solicita o seu posicionamento.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://forms.gle/KeJJAyeBo8orn5Ny8" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             <div class="row">
                  <div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
