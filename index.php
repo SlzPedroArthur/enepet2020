@@ -179,19 +179,6 @@ A Comissão Organizadora do XIX ENEPET, neste sentido, sintetizou essas proposta
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 col-xl-4">
-                    <div class="blog-box">
-                        <div class="blog-content">
-                            <div class="title-blog">
-                                <h3>Siga-nos no Instagram!</h3>
-                                <p>Então pessoal, se você ainda não sabe como entrar em contato com a gente, se liga e chama no direct do IG. Recado tá dado. </p>
-                            </div>
-                            <ul class="option-blog">
-                            <li><a href="https://www.instagram.com/enepetma/" data-toggle="tooltip" data-placement="right" title="Veja mais"><i class="fas fa-eye"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
