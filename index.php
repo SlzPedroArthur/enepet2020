@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
-                            <p class="m-b-40">Você já pode checar o edital<br>com todas as instruções abaixo</p>
+                            <p class="m-b-40">Você já pode checar o edital<br>com todas as instruções abaixo.</p>
                             <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch">Edital</a></p>
                         </div>
                     </div>
@@ -22,9 +22,9 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Consulta sobre<br>mudança dos GDT's</strong></h1>
                             <p class="m-b-40">A estrutura das assembleias dos eventos do PET tem provocado <br>muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Acesse para analisar nossa proposta para os GDT's.</p>
-                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Fomulário</a></p>
-                        </div>
->acessar o edital.                    </div>
+                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Formulário</a></p>
+                        </div>                
+					</div>
                 </div>
             </li>
             <li class="text-right">
@@ -60,13 +60,13 @@
             </div>
             
             <div class="row">
-                 <div class="col-md-6 col-lg-4 col-xl-4">
+            	<div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
                                 <h3>Formulário de Consulta disponível</h3>
                                 <p>Mermã e mermão, vem bem aqui rapidão! A estrutura das assembleias dos eventos do PET tem provocado muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Petianos(as) de diferentes Estados do Brasil pensaram em possibilidades que pudessem tornar esse momento mais deliberativo e prático, tendo em vista garantir qualidade, produtividade e celeridade a essa reunião tão importante. 
-A Comissão Organizadora do XIX ENEPET, neste sentido, sintetizou essas propostas sobre a "nova dinâmica" de assembleia e por meio deste questionário solicita o seu posicionamento.</p>
+								A Comissão Organizadora do XIX ENEPET, neste sentido, sintetizou essas propostas sobre a "nova dinâmica" de assembleia e por meio deste questionário solicita o seu posicionamento.</p>
                             </div>
                             <ul class="option-blog">
                                 <li><a href="https://forms.gle/KeJJAyeBo8orn5Ny8" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
@@ -74,7 +74,19 @@ A Comissão Organizadora do XIX ENEPET, neste sentido, sintetizou essas proposta
                         </div>
                     </div>
                 </div>
-            <div class="row">
+            	<div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Edital de Oficinas e Minicursos disponível</h3>
+                                <p>Você já pode acessar o Edital para ter todas as informações relacionadas às submissões de oficinas e minicursos, como prazos e requisitos.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://drive.google.com/open?id=1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                  <div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
                         <div class="blog-content">
