@@ -16,6 +16,23 @@
                                 </tr>
                             </thead>
                             <tbody>
+				
+                                <tr>
+								</a>
+                                    </td>
+                                    <td class="name-pr">
+                                        <a href="#">
+									Edital de Submissão de Oficinas e Minicursos
+								</a>
+                                    </td>
+                                    <td class="price-pr">
+                                        <p>Edital instruções para submissão.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch">Baixe aqui</a>
+                                    </td>
+                                    
+                                </tr>
                                 <tr>
 								</a>
                                     </td>
@@ -77,7 +94,7 @@
                                         <p>Instruções para monitores.</p>   
                                     </td>   
                                     <td class="add-pr"> 
-                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1e3jOuMepgcxk6GPHGNBc9t1NohMQD4br">Baixe aqui</a>   
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1xTRLMTsQKCGTOkJ8iFz_0VJAiWo_BBZp">Baixe aqui</a>   
                                     </td>   
                                     
                                 <tr>
