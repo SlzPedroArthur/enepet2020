@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Fomulário de <br>consulta disponível</strong></h1>
-                            <p class="m-b-40">A estrutura das assembleias dos eventos do PET tem provocado <br>muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Acesse para olhar nossa proposta para os GDT's.</p>
-                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Fomulário</a></p>
+                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e minicursos disponível</strong></h1>
+                            <p class="m-b-40">Você já pode checar o edital<br>com todas as instruções abaixo</p>
+                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Edital</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,9 +20,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Inscrições<br>Abertas!</strong></h1>
-                            <p class="m-b-40">As inscrições para o primeiro lote de inscrição já estão abertas!<br>Acesse a plataforma clicando abaixo.</p>
-                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Inscrições</a></p>
+                            <h1 class="m-b-20"><strong>Fomulário de<br>consulta disponível</strong></h1>
+                            <p class="m-b-40">A estrutura das assembleias dos eventos do PET tem provocado <br>muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Acesse para analisar nossa proposta para os GDT's.</p>
+                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Fomulário</a></p>
                         </div>
 >acessar o edital.                    </div>
                 </div>
@@ -32,9 +32,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de Submissão <br> de Trabalhos</strong></h1>
-                            <p class="m-b-40">Clique no link<br>abaixo para ter acesso.</p>
-                            <p><a class="btn hvr-hover" href="https://even3.blob.core.windows.net/geral/EditaldeSubmissodeResumosExpandidos-XIXENEPET.bd73bb80dd104635ad42.pdf">Edital</a></p>
+                            <h1 class="m-b-20"><strong>Inscrições<br>abertar!</strong></h1>
+                            <p class="m-b-40">As inscrições para o primeiro lote de inscrição já estão abertas!<br>Acesse a plataforma clicando abaixo.</p>
+                            <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Inscrições</a></p>
                         </div>
                     </div>
                 </div>
