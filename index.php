@@ -10,7 +10,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
                             <p class="m-b-40">Você já pode checar o edital<br>com todas as instruções abaixo</p>
-                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Edital</a></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch">Edital</a></p>
                         </div>
                     </div>
                 </div>
