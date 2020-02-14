@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e minicursos disponível</strong></h1>
+                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
                             <p class="m-b-40">Você já pode checar o edital<br>com todas as instruções abaixo</p>
                             <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Edital</a></p>
                         </div>
@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Fomulário de<br>consulta disponível</strong></h1>
+                            <h1 class="m-b-20"><strong>Consulta sobre<br>mudança dos GDT's</strong></h1>
                             <p class="m-b-40">A estrutura das assembleias dos eventos do PET tem provocado <br>muitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Acesse para analisar nossa proposta para os GDT's.</p>
                             <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Fomulário</a></p>
                         </div>
@@ -32,7 +32,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Inscrições<br>abertar!</strong></h1>
+                            <h1 class="m-b-20"><strong>Inscrições<br>abertas!</strong></h1>
                             <p class="m-b-40">As inscrições para o primeiro lote de inscrição já estão abertas!<br>Acesse a plataforma clicando abaixo.</p>
                             <p><a class="btn hvr-hover" href="https://www.even3.com.br/enepet2020/">Inscrições</a></p>
                         </div>
