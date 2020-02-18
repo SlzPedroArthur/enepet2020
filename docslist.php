@@ -22,6 +22,22 @@
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
+									Resultado do Edital de Vulnerabilidade
+								</a>
+                                    </td>
+                                    <td class="price-pr">
+                                        <p>Edital instruções para submissão.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1AH1lyJd6qX9FH4BIO0YVZEpqRgVbUZU6">Baixe aqui</a>
+                                    </td>
+                                    
+                                </tr>
+                                <tr>
+								</a>
+                                    </td>
+                                    <td class="name-pr">
+                                        <a href="#">
 									Edital de Submissão de Oficinas e Minicursos
 								</a>
                                     </td>
