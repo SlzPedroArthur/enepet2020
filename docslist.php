@@ -22,6 +22,22 @@
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
+									RETIFICAÇÃO DO EDITAL DE INSCRIÇÃO
+								</a>
+                                    </td>
+                                    <td class="price-pr">
+                                        <p>ERRATA.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Baixe aqui</a>
+                                    </td>
+                                    
+                                </tr>
+                                <tr>
+								</a>
+                                    </td>
+                                    <td class="name-pr">
+                                        <a href="#">
 									Resultado do Edital de Vulnerabilidade
 								</a>
                                     </td>
