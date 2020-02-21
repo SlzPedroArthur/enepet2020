@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>RETIFICAÇÃO DO <br>EDITAL DE INSCRIÇÃO</strong></h1>
+                            <h1 class="m-b-20"><strong>Retificação do <br>Edital de Inscrição</strong></h1>
                             <p class="m-b-40">Acesse abaixo para verificar as mudanças do edital.</p>
                             <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Errata</a></p>
                         </div>
