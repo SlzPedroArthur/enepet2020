@@ -22,11 +22,11 @@
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
-									RETIFICAÇÃO DO EDITAL DE INSCRIÇÃO
+									Retificação do Edital de Inscrição
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>ERRATA.</p>
+                                        <p>Errata.</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Baixe aqui</a>
