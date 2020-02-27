@@ -26,7 +26,7 @@
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>Nota.</p>
+                                        <p>Nota sobre mudança de preços.</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Baixe aqui</a>
