@@ -22,11 +22,27 @@
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
+									Informativo
+								</a>
+                                    </td>
+                                    <td class="price-pr">
+                                        <p>Nota.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Baixe aqui</a>
+                                    </td>
+                                    
+                                </tr>
+                                <tr>
+								</a>
+                                    </td>
+                                    <td class="name-pr">
+                                        <a href="#">
 									Retificação do Edital de Inscrição
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>Errata.</p>
+                                        <p>Nota sobre mudança de preços.</p>
                                     </td>
                                     <td class="add-pr">
                                         <a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Baixe aqui</a>
