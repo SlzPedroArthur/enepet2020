@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Retificação do <br>Edital de Inscrição</strong></h1>
-                            <p class="m-b-40">Acesse abaixo para verificar as mudanças do edital.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Errata</a></p>
+                            <h1 class="m-b-20"><strong>Informativo <br>sobre mudança de preços</strong></h1>
+                            <p class="m-b-40">Nota oficinal da comissão organizadora do XIX ENEPET.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Informativo</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,9 +20,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
-                            <p class="m-b-40">Você já pode checar o edital<br>toras(es)com todas as informações abaixo.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch/view">Edital</a></p>
+                            <h1 class="m-b-20"><strong>Retificação do <br>Edital de Inscrição</strong></h1>
+                            <p class="m-b-40">Acesse abaixo para verificar as mudanças do edital.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Errata</a></p>
                         </div>                
 					</div>
                 </div>
@@ -32,9 +32,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Consulta sobre<br>mudança dos GDT's</strong></h1>
-                            <p class="m-b-40">A estrutura das assembleias dos eventos do PET tem provocado <br>uitos debates por parte dos(as) petianos(as) discentes e tutoras(es). Acesse para analisar nossa proposta para os GDT's.</p>
-                            <p><a class="btn hvr-hover" href="https://forms.gle/KeJJAyeBo8orn5Ny8">Formulário</a></p>
+                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
+                            <p class="m-b-40">Você já pode checar o edital<br></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch/view">Formulário</a></p>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,22 @@
                     </div>
                 </div>
             </div>
-            
+            <div class="row">
+            	<div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Informativo Oficinal</h3>
+                                <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem
+comunicar aos petianos e petianas do Nordeste os motivos da redução dos valores das
+inscrições do 2o e 3o lote do XIX ENEPET.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://forms.gle/KeJJAyeBo8orn5Ny8" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             <div class="row">
             	<div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
