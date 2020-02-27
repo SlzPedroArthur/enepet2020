@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Informativo <br>sobre mudança de preços</strong></h1>
-                            <p class="m-b-40">Nota oficinal da comissão organizadora do XIX ENEPET.</p>
+                            <p class="m-b-40">Nota oficinal da Comissão Organizadora do XIX ENEPET.</p>
                             <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Informativo</a></p>
                         </div>
                     </div>
