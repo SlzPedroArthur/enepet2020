@@ -63,7 +63,7 @@
                     <div class="blog-box">
                         <div class="blog-content">
                             <div class="title-blog">
-                                <h3>Informativo Oficinal</h3>
+                                <h3>Informativo Oficial</h3>
                                 <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem
 comunicar aos petianos e petianas do Nordeste os motivos da redução dos valores das
 inscrições do 2º e 3º lote do XIX ENEPET.</p>
