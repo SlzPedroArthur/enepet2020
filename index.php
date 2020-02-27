@@ -20,7 +20,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strongEdital de Oficinas<br>e Minicursos disponível</strong></h1>
+                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
                             <p class="m-b-40">Você já pode checar o edital<br>toras(es)com todas as informações abaixo.</p>
                             <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch/view">Edital</a></p>
                         </div>                
