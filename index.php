@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Informativo <br>sobre mudança de preços</strong></h1>
-                            <p class="m-b-40">Nota oficinal da Comissão Organizadora do XIX ENEPET.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Informativo</a></p>
+                            <h1 class="m-b-20"><strong>Resultado<br>do edital de monitoria</strong></h1>
+                            <p class="m-b-40">Você já pode saber quem serão os minitores do Enepet 2020</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1hNM_gKs6rqIXDxsI4VN_j5328Lf9umjX">Resultado</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,9 +20,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Retificação do <br>Edital de Inscrição</strong></h1>
-                            <p class="m-b-40">Acesse abaixo para verificar as mudanças do edital.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Errata</a></p>
+                            <h1 class="m-b-20"><strong>Informativo <br>sobre mudança de preços</strong></h1>
+                            <p class="m-b-40">Nota oficinal da Comissão Organizadora do XIX ENEPET.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Informativo</a></p>
                         </div>                
 					</div>
                 </div>
@@ -32,9 +32,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Edital de Oficinas<br>e Minicursos disponível</strong></h1>
-                            <p class="m-b-40">Você já pode checar o edital<br></p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch/view">Formulário</a></p>
+                            <h1 class="m-b-20"><strong>Retificação do <br>Edital de Inscrição</strong></h1>
+                            <p class="m-b-40">Acesse abaixo para verificar as mudanças do edital.<br></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Errata</a></p>
                         </div>
                     </div>
                 </div>
@@ -58,6 +58,20 @@
                     </div>
                 </div>
             </div>
+	    <div class="row">
+            	<div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Resultado da Monitoria</h3>
+                                <p>Você já pode checar os selecianados para a Monitoria do Enepet 2020.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://drive.google.com/open?id=1hNM_gKs6rqIXDxsI4VN_j5328Lf9umjX" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             <div class="row">
             	<div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
