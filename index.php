@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Resultado<br>do edital de monitoria</strong></h1>
-                            <p class="m-b-40">Você já pode saber quem serão os minitores do Enepet 2020</p>
+                            <p class="m-b-40">Confira a lista dos selecionados para a monitoria do XIX ENEPET</p>
                             <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1hNM_gKs6rqIXDxsI4VN_j5328Lf9umjX">Resultado</a></p>
                         </div>
                     </div>
