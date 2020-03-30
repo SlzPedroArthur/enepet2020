@@ -8,9 +8,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Resultado<br>do edital de monitoria</strong></h1>
-                            <p class="m-b-40">Confira a lista dos selecionados para a monitoria do XIX ENEPET</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1hNM_gKs6rqIXDxsI4VN_j5328Lf9umjX">Resultado</a></p>
+                            <h1 class="m-b-20"><strong>Nota oficial <br>sobre o adiamento do XIX ENEPET</strong></h1>
+                            <p class="m-b-40">Acesse o documento para visulizar as deliberações da Comissão Organizadora.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1Gy0OLI2qqS7TfcZukJctCJKDEFbUk6C2">Nota</a></p>
                         </div>
                     </div>
                 </div>
@@ -58,6 +58,21 @@
                     </div>
                 </div>
             </div>
+	<div class="row">
+            	<div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Nota oficial sobre o adiamento do XIX ENEPET</h3>
+                                <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem por meio
+desta nota informar o ADIAMENTO do realização deste evento.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://drive.google.com/open?id=1Gy0OLI2qqS7TfcZukJctCJKDEFbUk6C2" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>	
 	    <div class="row">
             	<div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
