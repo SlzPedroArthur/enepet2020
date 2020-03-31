@@ -10,7 +10,7 @@
                         <div class="col-md-12">
                             <h1 class="m-b-20"><strong>Nota oficial <br>sobre o adiamento do XIX ENEPET</strong></h1>
                             <p class="m-b-40">Acesse o documento para visulizar as deliberações da Comissão Organizadora.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1Gy0OLI2qqS7TfcZukJctCJKDEFbUk6C2">Nota</a></p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag">Nota</a></p>
                         </div>
                     </div>
                 </div>
