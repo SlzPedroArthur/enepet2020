@@ -16,7 +16,22 @@
                                 </tr>
                             </thead>
                             <tbody>
-			     
+                                <tr>
+								</a>
+                                    </td>
+                                    <td class="name-pr">
+                                        <a href="#">
+									Nota de Adiamento
+								</a>
+                                    </td>
+                                    <td class="price-pr">
+                                        <p>Confira a nota oficial.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag">Baixe aqui</a>
+                                    </td>
+                                    
+                                </tr>				     
                                 <tr>
 								</a>
                                     </td>
