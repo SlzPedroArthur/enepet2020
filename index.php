@@ -48,7 +48,17 @@
     <!-- End Slider -->
 
 <!-- Start Blog  -->
-	<div class="row">
+<div class="latest-blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-all text-center">
+                        <h1>Fique ligado!</h1>
+                        <p>As últimas notícias diretamente dos bastidores da organização do evento!</p>
+                    </div>
+                </div>
+            </div>
+			<div class="row">
             	<div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
                         <div class="blog-content">
@@ -64,16 +74,6 @@ desta deste formulário consultar o público sobre a possibilidade da realizaç�
                     </div>
                 </div>	
 	    <div class="row">
-<div class="latest-blog">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-all text-center">
-                        <h1>Fique ligado!</h1>
-                        <p>As últimas notícias diretamente dos bastidores da organização do evento!</p>
-                    </div>
-                </div>
-            </div>
 	<div class="row">
             	<div class="col-md-6 col-lg-4 col-xl-4">
                     <div class="blog-box">
