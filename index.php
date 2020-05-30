@@ -48,6 +48,22 @@
     <!-- End Slider -->
 
 <!-- Start Blog  -->
+	<div class="row">
+            	<div class="col-md-6 col-lg-4 col-xl-4">
+                    <div class="blog-box">
+                        <div class="blog-content">
+                            <div class="title-blog">
+                                <h3>Consulta para realização online do XIX ENEPET/h3>
+                                <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem por meio
+desta deste formulário consultar o público sobre a possibilidade da realização online do XIX ENEPET.</p>
+                            </div>
+                            <ul class="option-blog">
+                                <li><a href="https://forms.gle/McZc2geGbSoW3H5e9" data-toggle="tooltip" data-placement="right" title="Formulário"><i class="fas fa-eye"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>	
+	    <div class="row">
 <div class="latest-blog">
         <div class="container">
             <div class="row">
