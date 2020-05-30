@@ -8,9 +8,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Nota oficial <br>sobre o adiamento do XIX ENEPET</strong></h1>
-                            <p class="m-b-40">Acesse o documento para visulizar as deliberações da Comissão Organizadora.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag">Nota</a></p>
+                            <h1 class="m-b-20"><strong>Consulta sobre a realização</strong> on-line do XIX ENEPET
+<br>sobre o adiamento do XIX ENEPET</h1>
+                            <p class="m-b-40">Acesse o formulário para participar da consulta.</p>
+                            <p><a class="btn hvr-hover" href="https://forms.gle/McZc2geGbSoW3H5e9">Nota</a></p>
                         </div>
                     </div>
                 </div>
