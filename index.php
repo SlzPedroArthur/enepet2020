@@ -9,7 +9,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Consulta sobre a realização online XIX ENEPET</strong>do XIX ENEPET</h1>
+                            <h1 class="m-b-20"><strong>Consulta sobre a realização online XIX ENEPET</strong></h1>
                             <p class="m-b-40">Acesse o formulário para participar da consulta.</p>
                             <p><a class="btn hvr-hover" href="https://forms.gle/McZc2geGbSoW3H5e9">Formulário</a></p>
                         </div>
