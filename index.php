@@ -71,7 +71,7 @@
                         <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET(ENEPET) vem a público relatar parte do processo de construção do Evento e alguns imponderáveis ocorridos durante a Pandemia.</p>
                     </div>
                     <ul class="option-blog">
-                        <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=56341" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
+                        <li><a href="https://drive.google.com/file/d/1G6p7_Tf11VbFgnNZbQ-5zdW_y3J5Oz0v/view?usp=sharing" data-toggle="tooltip" data-placement="right" title="Carta"><i class="fas fa-eye"></i></a></li>
                     </ul>
                 </div>
             </div>  
