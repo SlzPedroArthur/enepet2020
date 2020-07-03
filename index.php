@@ -9,9 +9,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Consulta sobre a realização online XIX ENEPET</strong></h1>
-                            <p class="m-b-40">Acesse o formulário para participar da consulta.</p>
-                            <p><a class="btn hvr-hover" href="https://forms.gle/McZc2geGbSoW3H5e9">Formulário</a></p>
+                            <h1 class="m-b-20"><strong>Carta Aberta</strong></h1>
+                            <p class="m-b-40">Uma carta aberta sobre a construção do evento</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1G6p7_Tf11VbFgnNZbQ-5zdW_y3J5Oz0v/view?usp=sharing">Acesse</a></p>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
             <div class="blog-box">
                 <div class="blog-content">
                     <div class="title-blog">
-                        <h3>XIX ENEPET lança formulário de consulta para evento online</h3>
-                        <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET (Enepet) disponibilizou em seu site e na descrição do seu perfil no Instagram, até o dia 12 de junho, um formulário de consulta direcionado à comunidade acadêmica nordestina sobre a viabilização do encontro no formato digital.</p>
+                        <h3>XIX ENEPET publica uma carta aberta sobre a construção do evento</h3>
+                        <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET(ENEPET) vem a público relatar parte do processo de construção do Evento e alguns imponderáveis ocorridos durante a Pandemia.</p>
                     </div>
                     <ul class="option-blog">
                         <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=56341" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
