@@ -46,10 +46,10 @@
                 <div class="col-lg-3 col-md-6 special-grid second">
                     <div class="products-single fix">
                         <div class="btn-wrap">
-                            <img onclick="document.getElementById('id01').style.display='block'" src="images/domingo_1.PNG" class="img-fluid" alt="Image">
+                            <img onclick="document.getElementById('id01').style.display='block'" src="images/domingo1.PNG" class="img-fluid" alt="Image">
                             <div id="id01" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/domingo_1.PNG" class="img-fluid" alt="Image">
+                                    <img src="images/domingo1.PNG" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
