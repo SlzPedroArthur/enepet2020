@@ -43,7 +43,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 special-grid second">
+                <div class="col-lg-3 col-md-6 special-grid first">
                     <div class="products-single fix">
                         <div class="btn-wrap">
                             <img onclick="document.getElementById('id02').style.display='block'" src="images/day2.png" class="img-fluid" alt="Image">
