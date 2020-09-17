@@ -46,8 +46,8 @@
                 <div class="col-lg-3 col-md-6 special-grid second">
                     <div class="products-single fix">
                         <div class="btn-wrap">
-                            <img onclick="document.getElementById('id01').style.display='block'" src="images/day2.png" class="img-fluid" alt="Image">
-                            <div id="id01" class="modal">
+                            <img onclick="document.getElementById('id02').style.display='block'" src="images/day2.png" class="img-fluid" alt="Image">
+                            <div id="id02" class="modal">
                                 <div class="modal-content animate">
                                     <img src="images/day2.png" class="img-fluid" alt="Image">
                                 </div>
@@ -63,8 +63,8 @@
                 <div class="col-lg-3 col-md-6 special-grid third">
                     <div class="products-single fix">
                         <div class="btn-wrap">
-                            <img onclick="document.getElementById('id01').style.display='block'" src="images/day3.png" class="img-fluid" alt="Image">
-                            <div id="id01" class="modal">
+                            <img onclick="document.getElementById('id03').style.display='block'" src="images/day3.png" class="img-fluid" alt="Image">
+                            <div id="id03" class="modal">
                                 <div class="modal-content animate">
                                     <img src="images/day3.png" class="img-fluid" alt="Image">
                                 </div>
@@ -80,8 +80,8 @@
                 <div class="col-lg-3 col-md-6 special-grid fourth">
                     <div class="products-single fix">
                         <div class="btn-wrap">
-                            <img onclick="document.getElementById('id01').style.display='block'" src="images/day4.png" class="img-fluid" alt="Image">
-                            <div id="id01" class="modal">
+                            <img onclick="document.getElementById('id04').style.display='block'" src="images/day4.png" class="img-fluid" alt="Image">
+                            <div id="id04" class="modal">
                                 <div class="modal-content animate">
                                     <img src="images/day4.png" class="img-fluid" alt="Image">
                                 </div>
