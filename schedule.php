@@ -29,16 +29,16 @@
                 <div class="col-lg-3 col-md-6 special-grid first">
                     <div class="products-single fix">
                         <div class="btn-wrap">
-                            <img onclick="document.getElementById('id01').style.display='block'" src="images/day1.png" class="img-fluid" alt="Image">
+                            <img onclick="document.getElementById('id01').style.display='block'" src="images/sabado1.PNG" class="img-fluid" alt="Image">
                             <div id="id01" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/day1.png" class="img-fluid" alt="Image">
+                                    <img src="images/sabado1.PNG" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
                         <div class="why-text">
                             <h4>Primeiro dia</h4>
-                            <h5> Sáb, 18/04</h5>
+                            <h5> Sáb, 10/10</h5>
                         </div>
                     </div>
                 </div>
@@ -46,16 +46,16 @@
                 <div class="col-lg-3 col-md-6 special-grid first">
                     <div class="products-single fix">
                         <div class="btn-wrap">
-                            <img onclick="document.getElementById('id02').style.display='block'" src="images/day2.png" class="img-fluid" alt="Image">
+                            <img onclick="document.getElementById('id02').style.display='block'" src="images/domingo1.PNG" class="img-fluid" alt="Image">
                             <div id="id02" class="modal">
                                 <div class="modal-content animate">
-                                    <img src="images/day2.png" class="img-fluid" alt="Image">
+                                    <img src="images/domingo1.PNG" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                         </div>
                         <div class="why-text">
                             <h4>Segundo dia</h4>
-                            <h5> Dom, 19/04</h5>
+                            <h5> Dom, 11/10</h5>
                         </div>
                     </div>
                 </div>
