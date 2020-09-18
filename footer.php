@@ -30,10 +30,10 @@
                         <div class="footer-widget">
                             <h4>Apoio e Organização</h4>
                             <div class="col-sm-12">
-                                <img style="height:150px;" src="images/logo/logoUFMA.png" class="img-logo" alt="UFMA">
+                              <a href="https://portais.ufma.br/PortalUfma/"><img style="height:150px;" src="images/logo/logoUFMA.png" class="img-logo" alt="UFMA"></a>  
                             </div>
                             <div class="col-sm-12">
-                                <img style="height:50px;" src="images/logo/logoPET.jpeg" class="img-logo" alt="PET UFMA">
+                                <a href="https://pet.ufma.br/"><img style="height:50px;" src="images/logo/logoPET.jpeg" class="img-logo" alt="PET UFMA"></a>
                             </div>
                         </div>
                     </div>
