@@ -77,8 +77,9 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-6 special-grid fourth">
+            </div>
+            <div class="row special-list">
+                <div class="col-lg-6 col-md-6 special-grid fourth">
                     <div class="products-single fix">
                         <div class="btn-wrap">
                             <img onclick="document.getElementById('id04').style.display='block'" src="images/domingo2.png" class="img-fluid" alt="Image">
@@ -95,7 +96,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 special-grid fifth">
+                <div class="col-lg-6 col-md-6 special-grid fifth">
                     <div class="products-single fix">
                         <div class="btn-wrap">
                             <img onclick="document.getElementById('id05').style.display='block'" src="images/sabado3.png" class="img-fluid" alt="Image">
