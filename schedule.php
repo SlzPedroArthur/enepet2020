@@ -331,6 +331,59 @@
                     </div>
                 </div>
             </div>
+			
+			<!--------------------------
+                        Dia 5 do evento
+            --------------------------->
+                    <div class="title-all text-center"> 
+                        <h1>Dia 24/10/2020 - Sábado</h1>  
+                    </div>
+                    <div class="wishlist-box-main">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="table-main table-responsive">
+										<table class="table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Horário</th>
+                                                    <th>Atividade</th>
+                                                    <th>Detalhes</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+
+                                                <tr>                                    
+                                                    <td class="name-pr">                                              
+                                                    <h4><b>09:00 - 12:00</b></h4>
+                                                    </td>
+                                                    <td class="price-pr">
+                                                        <h4><b>Assembléia (primeiro momento)</b></h4>
+                                                    </td>
+                                                    <td class="add-pr">
+                                                        <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                                    </td>                                            
+                                                </tr>
+                                                
+                                                <tr>                                    
+                                                    <td class="name-pr">                                              
+                                                    <h4><b>09:00 - 12:00</b></h4>
+                                                    </td>
+                                                    <td class="price-pr">
+                                                        <h4><b>Assembléia (Segundo momento)</b></h4>
+                                                    </td>
+                                                    <td class="add-pr">
+                                                        <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                                    </td>                                            
+                                                </tr>
+                                                                                        
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
             <!--
 
