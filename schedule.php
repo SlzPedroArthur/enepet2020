@@ -7,7 +7,7 @@
                 <div class="col-lg-12">
                     <div class="title-all text-center">
                         <h1>Programação do Evento</h1>
-                        <p>Confira a programação completa do Encontro Regional de PETs 2020! Aqui você vizualizar e baixar a programação oficial.</p>
+                        <p>Confira a programação completa do Encontro Regional de PETs 2020! Aqui você vizualiza e baixa a programação oficial.</p>
                     </div>
                 </div>
             </div>
