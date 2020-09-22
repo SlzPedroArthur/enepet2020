@@ -22,66 +22,64 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="table-main table-responsive">
+                            <div class="table-main ">
                                 <table class="table">
-                                    <thead>
-                                        <tr>
-                                            <th>Horário</th>
-                                            <th>Atividade</th>
-                                            <th>Detalhes</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
+                                    
+                                    <tr>
+                                        <th>Horário</th>
+                                        <th>Atividade</th>
+                                        <th>Detalhes</th>
+                                    </tr>
+                                
 
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>09:00 - 10:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Mesa de Abertura</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1xSEdmfWkF3MxTAUfSxVFt0IwqlZCxpIS/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
-                                        
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>10:00 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Mesa Redonda “Liberdade, equidade e pluralidade: o PET em luta pela autonomia da universidade”</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/15HP7okEleV5ZKAe5SB8I5ku6s2fxBjr5/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>09:00 - 10:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Mesa de Abertura</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1xSEdmfWkF3MxTAUfSxVFt0IwqlZCxpIS/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
+                                    
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>10:00 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Mesa Redonda “Liberdade, equidade e pluralidade: <br> o PET em luta pela autonomia da universidade”</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/15HP7okEleV5ZKAe5SB8I5ku6s2fxBjr5/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>14:00 - 16:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Encontro de Discentes</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1wvWjt9jRxxxJ0taaYO7ijD0qyFvIPXaz/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>14:00 - 16:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Encontro de Discentes</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1wvWjt9jRxxxJ0taaYO7ijD0qyFvIPXaz/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>14:00 - 16:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Encontro de Tutores</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1jg9mUZLptq8bHaFM-57HWjzp2hntoG0I/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
-
-                                    </tbody>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>14:00 - 16:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Encontro de Tutores</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1jg9mUZLptq8bHaFM-57HWjzp2hntoG0I/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
+                                    
                                 </table>
                             </div>
                         </div>
@@ -99,78 +97,76 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="table-main table-responsive">
+                            <div class="table-main ">
                                 <table class="table">
-                                    <thead>
-                                        <tr>
-                                            <th>Horário</th>
-                                            <th>Atividade</th>
-                                            <th>Detalhes</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
+                                    
+                                    <tr>
+                                        <th>Horário</th>
+                                        <th>Atividade</th>
+                                        <th>Detalhes</th>
+                                    </tr>
+                                
 
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>09:00 - 10:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Mobiliza PET - Mesa Redonda</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1Lgwa-hvPwq2pTuG2hXJkeodJSgBcHMCw/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
-                                        
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>10:00 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Mobiliza PET - Gincana</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1osTZ9kALN5Dyfvs5MOwQdgwT_YVYgVYY/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>09:00 - 10:30</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Mobiliza PET - Mesa Redonda</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1Lgwa-hvPwq2pTuG2hXJkeodJSgBcHMCw/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
+                                    
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>10:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Mobiliza PET - Atividades Diversas</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1osTZ9kALN5Dyfvs5MOwQdgwT_YVYgVYY/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>14:00 - 16:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Oficina 1: Oficina de Lembrancinha - Como fazer um planner semanal ou mensal.</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1mVQzLhLT9jkyUHUPEM-xxhLlAIs99yVp/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>14:00 - 16:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Oficina 1: Oficina de Lembrancinha do ENEPET - Como fazer um planner semanal ou mensal.</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1mVQzLhLT9jkyUHUPEM-xxhLlAIs99yVp/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>14:00 - 16:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Oficina 2: Oficina do PET Computação - Segurança na Informação</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1unm1XAFts2IFqqqdZpICrmvGa-TIEnKJ/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>14:00 - 16:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Oficina 2: Oficina do PET Computação - Segurança na Informação</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1unm1XAFts2IFqqqdZpICrmvGa-TIEnKJ/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>14:00 - 16:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Oficina 3: Oficina de Compostagem</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="https://drive.google.com/file/d/1BFJcVNg-_Aq8yKSu8tiYFM-UxG96N4mL/view?usp=drivesdk">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
-
-                                    </tbody>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>14:00 - 16:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Oficina 3: Oficina de Compostagem - Estimular a decomposição de materiais orgânicos para um solo humífero</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1BFJcVNg-_Aq8yKSu8tiYFM-UxG96N4mL/view?usp=drivesdk">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
+                                    
                                 </table>
                             </div>
                         </div>
@@ -188,102 +184,99 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="table-main table-responsive">
+                            <div class="table-main ">
                                 <table class="table">
-                                    <thead>
-                                        <tr>
-                                            <th>Horário</th>
-                                            <th>Atividade</th>
-                                            <th>Detalhes</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
+                                    
+                                    <tr>
+                                        <th>Horário</th>
+                                        <th>Atividade</th>
+                                        <th>Detalhes</th>
+                                    </tr>
+                                
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>08:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>GDT 1: Ensino, pesquisa e extensão na dinâmica petiana</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
+                                    
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>08:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>GDT 2: Entrada, permanência, lutas e conquistas dos grupos PET da Região Nordeste</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                           
+                                    </tr>
 
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>08:30 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>GDT 1: Ensino, pesquisa e extensão na dinâmica petiana</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
-                                        
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>08:30 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>GDT 2: Entrada, permanência, lutas e conquistas dos grupos PET da Região Nordeste</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                           
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>08:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>GDT 3: Planejamento e organização de eventos dos Grupos PET</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>08:30 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>GDT 3: Planejamento e organização de eventos dos Grupos PET</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>08:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>GDT 4: Relação entre tutores, discentes e egressos nas atividades do PET: <br>Formas de aprimoramento e manutenção do Programa</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                               
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>08:30 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>GDT 4: Relação entre tutores, discentes e egressos nas atividades do PET: <br>Formas de aprimoramento e manutenção do Programa</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                               
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>08:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>GDT 5: Equidade, liberdade e pluralidade: o PET em busca pela autonomia da universidade</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                          
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>08:30 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>GDT 5: Equidade, liberdade e pluralidade: o PET em busca pela autonomia da universidade</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                          
-                                        </tr>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>08:30 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>GDT 6: Saúde mental na universidade</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                          
+                                    </tr>
 
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>08:30 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>GDT 6: Saúde mental na universidade</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                          
-                                        </tr>
-
-                                        <tr>      
-                                            <td class="name-pr">                                              
-                                               <h4><b>14:00 - 16:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Encontro dos CLAAs</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                          
-                                        </tr>
-
-                                    </tbody>
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>14:00 - 16:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Encontro dos CLAAs</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                          
+                                    </tr>
+                                
                                 </table>
                             </div>
                         </div>
@@ -301,30 +294,27 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <div class="table-main table-responsive">
+                            <div class="table-main ">
                                 <table class="table">
-                                    <thead>
-                                        <tr>
-                                            <th>Horário</th>
-                                            <th>Atividade</th>
-                                            <th>Detalhes</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
+                                    
+                                    <tr>
+                                        <th>Horário</th>
+                                        <th>Atividade</th>
+                                        <th>Detalhes</th>
+                                    </tr>                                    
 
-                                        <tr>                                    
-                                            <td class="name-pr">                                              
-                                               <h4><b>09:00 - 12:00</b></h4>
-                                            </td>
-                                            <td class="price-pr">
-                                                <h4><b>Apresentação de Trabalhos</b></h4>
-                                            </td>
-                                            <td class="add-pr">
-                                                <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                            </td>                                            
-                                        </tr>
-                                                                                
-                                    </tbody>
+                                    <tr>                                    
+                                        <td class="name-pr">                                              
+                                            <h4><b>09:00 - 12:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Apresentação de Trabalhos</b></h4>
+                                        </td>
+                                        <td class="add-pr">
+                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                        </td>                                            
+                                    </tr>                                                                                
+                                    
                                 </table>
                             </div>
                         </div>
@@ -342,42 +332,39 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="table-main table-responsive">
+                                    <div class="table-main">
 										<table class="table">
-                                            <thead>
-                                                <tr>
-                                                    <th>Horário</th>
-                                                    <th>Atividade</th>
-                                                    <th>Detalhes</th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
-
-                                                <tr>                                    
-                                                    <td class="name-pr">                                              
+                                            
+                                            <tr>
+                                                <th>Horário</th>
+                                                <th>Atividade</th>
+                                                <th>Detalhes</th>
+                                            </tr>
+                                        
+                                            <tr>                                    
+                                                <td class="name-pr">                                              
                                                     <h4><b>09:00 - 12:00</b></h4>
-                                                    </td>
-                                                    <td class="price-pr">
-                                                        <h4><b>Assembléia (primeiro momento)</b></h4>
-                                                    </td>
-                                                    <td class="add-pr">
-                                                        <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                                    </td>                                            
-                                                </tr>
-                                                
-                                                <tr>                                    
-                                                    <td class="name-pr">                                              
+                                                </td>
+                                                <td class="price-pr">
+                                                    <h4><b>Assembléia (Primeiro momento)</b></h4>
+                                                </td>
+                                                <td class="add-pr">
+                                                    <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                                </td>                                            
+                                            </tr>
+                                            
+                                            <tr>                                    
+                                                <td class="name-pr">                                              
                                                     <h4><b>09:00 - 12:00</b></h4>
-                                                    </td>
-                                                    <td class="price-pr">
-                                                        <h4><b>Assembléia (Segundo momento)</b></h4>
-                                                    </td>
-                                                    <td class="add-pr">
-                                                        <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                                    </td>                                            
-                                                </tr>
+                                                </td>
+                                                <td class="price-pr">
+                                                    <h4><b>Assembléia (Segundo momento)</b></h4>
+                                                </td>
+                                                <td class="add-pr">
+                                                    <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                                </td>                                            
+                                            </tr>
                                                                                         
-                                            </tbody>
                                         </table>
                                     </div>
                                 </div>
