@@ -338,7 +338,6 @@
                                             <tr>
                                                 <th>Horário</th>
                                                 <th>Atividade</th>
-                                                <th>Detalhes</th>
                                             </tr>
                                         
                                             <tr>                                    
@@ -348,9 +347,7 @@
                                                 <td class="price-pr">
                                                     <h4><b>Assembléia (Primeiro momento)</b></h4>
                                                 </td>
-                                                <td class="add-pr">
-                                                    <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                                </td>                                            
+                                                                                            
                                             </tr>
                                             
                                             <tr>                                    
@@ -360,9 +357,7 @@
                                                 <td class="price-pr">
                                                     <h4><b>Assembléia (Segundo momento)</b></h4>
                                                 </td>
-                                                <td class="add-pr">
-                                                    <a class="btn hvr-hover" href="#">Clique aqui</a>
-                                                </td>                                            
+                                                                                            
                                             </tr>
                                                                                         
                                         </table>
