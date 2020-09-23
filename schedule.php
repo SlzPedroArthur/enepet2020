@@ -345,7 +345,7 @@
                                                     <h4><b>09:00 - 12:00</b></h4>
                                                 </td>
                                                 <td class="price-pr">
-                                                    <h4><b>Assembléia Geral(Primeiro momento)</b></h4>
+                                                    <h4><b>Assembléia Geral (Primeiro momento)</b></h4>
                                                 </td>
                                                                                             
                                             </tr>
@@ -355,7 +355,7 @@
                                                     <h4><b>14:00 - 16:00</b></h4>
                                                 </td>
                                                 <td class="price-pr">
-                                                    <h4><b>Assembléia Geral(Segundo momento)</b></h4>
+                                                    <h4><b>Assembléia Geral (Segundo momento)</b></h4>
                                                 </td>
                                                                                             
                                             </tr>
