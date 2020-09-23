@@ -201,7 +201,7 @@
                                             <h4><b>GDT 1: Ensino, pesquisa e extensão na dinâmica petiana</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1rAOStHkuU3vlJ-6Zl-uNvURsJ0fTspPG/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
                                     
@@ -213,7 +213,7 @@
                                             <h4><b>GDT 2: Entrada, permanência, lutas e conquistas dos grupos PET da Região Nordeste</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/17OBrRVwWOpwNzkQTUEdSZrOMwD2J9d7D/view?usp=sharing">Clique aqui</a>
                                         </td>                                           
                                     </tr>
 
@@ -225,7 +225,7 @@
                                             <h4><b>GDT 3: Planejamento e organização de eventos dos Grupos PET</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1HcTbmm6yGMUjnulePGg0rV9HZ6L2m_2k/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -237,7 +237,7 @@
                                             <h4><b>GDT 4: Relação entre tutores, discentes e egressos nas atividades do PET: <br>Formas de aprimoramento e manutenção do Programa</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1QN3nFEKN8aokIvP5BelkwYTy8ssjgI-2/view?usp=sharing">Clique aqui</a>
                                         </td>                                               
                                     </tr>
 
@@ -249,7 +249,7 @@
                                             <h4><b>GDT 5: Equidade, liberdade e pluralidade: o PET em busca pela autonomia da universidade</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1NFRUWMmZ6iN-zBpN7We0ajSHVSAFpy9P/view?usp=sharing">Clique aqui</a>
                                         </td>                                          
                                     </tr>
 
@@ -261,7 +261,7 @@
                                             <h4><b>GDT 6: Saúde mental na universidade</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1wxJmrJz-aw_2E3HyqMySTt6MrvOJVdbK/view?usp=sharing">Clique aqui</a>
                                         </td>                                          
                                     </tr>
 
@@ -273,7 +273,7 @@
                                             <h4><b>Encontro dos CLAAs</b></h4>
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1I_uICYWo0jo7LEGS3To-v-d40v1UepNI/view?usp=sharing">Clique aqui</a>
                                         </td>                                          
                                     </tr>
                                 
