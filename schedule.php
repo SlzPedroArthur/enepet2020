@@ -37,7 +37,7 @@
                                             <h4><b>09:00 - 10:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mesa de Abertura</b></h4><b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                            <h4><b>Mesa de Abertura</b></h4><b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
                                             <a class="btn hvr-hover" href="https://drive.google.com/file/d/1xSEdmfWkF3MxTAUfSxVFt0IwqlZCxpIS/view?usp=drivesdk">Clique aqui</a>
@@ -49,7 +49,7 @@
                                             <h4><b>10:00 - 12:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mesa Redonda “Liberdade, equidade e pluralidade: <br> o PET em luta pela autonomia da universidade”</b></h4><b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                            <h4><b>Mesa Redonda “Liberdade, equidade e pluralidade: <br> o PET em luta pela autonomia da universidade”</b></h4><b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
                                             <a class="btn hvr-hover" href="https://drive.google.com/file/d/15HP7okEleV5ZKAe5SB8I5ku6s2fxBjr5/view?usp=drivesdk">Clique aqui</a>
@@ -61,7 +61,7 @@
                                             <h4><b>14:00 - 16:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Encontro de Discentes</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                            <h4><b>Encontro de Discentes</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
                                             <a class="btn hvr-hover" href="https://drive.google.com/file/d/1wvWjt9jRxxxJ0taaYO7ijD0qyFvIPXaz/view?usp=drivesdk">Clique aqui</a>
@@ -112,7 +112,7 @@
                                             <h4><b>09:00 - 10:30</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mobiliza PET - Mesa Redonda</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                            <h4><b>Mobiliza PET - Mesa Redonda</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
                                             <a class="btn hvr-hover" href="https://drive.google.com/file/d/1Lgwa-hvPwq2pTuG2hXJkeodJSgBcHMCw/view?usp=drivesdk">Clique aqui</a>
@@ -124,7 +124,7 @@
                                             <h4><b>10:30 - 12:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mobiliza PET - Atividades Diversas</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                            <h4><b>Mobiliza PET - Atividades Diversas</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
                                             <a class="btn hvr-hover" href="https://drive.google.com/file/d/1osTZ9kALN5Dyfvs5MOwQdgwT_YVYgVYY/view?usp=drivesdk">Clique aqui</a>
@@ -345,7 +345,7 @@
                                                     <h4><b>09:00 - 12:00</b></h4>
                                                 </td>
                                                 <td class="price-pr">
-                                                    <h4><b>Assembléia Geral (Primeiro momento)</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                                    <h4><b>Assembléia Geral (Primeiro momento)</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                                 </td>
                                                                                             
                                             </tr>
@@ -355,7 +355,7 @@
                                                     <h4><b>14:00 - 16:00</b></h4>
                                                 </td>
                                                 <td class="price-pr">
-                                                    <h4><b>Assembléia Geral (Segundo momento)</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e Youtube
+                                                    <h4><b>Assembléia Geral (Segundo momento)</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                                 </td>
                                                                                             
                                             </tr>
