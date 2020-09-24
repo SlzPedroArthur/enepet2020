@@ -11,7 +11,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <!--------------------------
                 Dia 1 do evento
             --------------------------->
@@ -27,7 +27,7 @@
                                     
                                     <tr>
                                         <th>Horário</th>
-                                        <th>Atividade</th>
+                                        <th>Atividade</th>                                        
                                         <th>Detalhes</th>
                                     </tr>
                                 
@@ -37,7 +37,7 @@
                                             <h4><b>09:00 - 10:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mesa de Abertura</b></h4>
+                                            <h4><b>Mesa de Abertura</b></h4><b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
                                             <a class="btn hvr-hover" href="https://drive.google.com/file/d/1xSEdmfWkF3MxTAUfSxVFt0IwqlZCxpIS/view?usp=drivesdk">Clique aqui</a>
@@ -85,8 +85,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-
+            </div>          
+            
             <!--------------------------
                 Dia 2 do evento
             --------------------------->
