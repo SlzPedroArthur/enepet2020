@@ -34,25 +34,13 @@
 
                                     <tr>                                    
                                         <td class="name-pr">                                              
-                                            <h4><b>09:00 - 10:00</b></h4>
+                                            <h4><b>08:50 - 12:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mesa de Abertura</b></h4><b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
+                                            <h4><b>Mesa de Abertura e Mesa Redonda “Liberdade, equidade e pluralidade: <br> o PET em luta pela autonomia da universidade”</b></h4><b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1xSEdmfWkF3MxTAUfSxVFt0IwqlZCxpIS/view?usp=drivesdk">Clique aqui</a>
-                                        </td>                                            
-                                    </tr>
-                                    
-                                    <tr>                                    
-                                        <td class="name-pr">                                              
-                                            <h4><b>10:00 - 12:00</b></h4>
-                                        </td>
-                                        <td class="price-pr">
-                                            <h4><b>Mesa Redonda “Liberdade, equidade e pluralidade: <br> o PET em luta pela autonomia da universidade”</b></h4><b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
-                                        </td>
-                                        <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/15HP7okEleV5ZKAe5SB8I5ku6s2fxBjr5/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1zIIbNWSlVzGZu1QT38ERLTtmvhduFScC/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -64,7 +52,7 @@
                                             <h4><b>Encontro de Discentes</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1wvWjt9jRxxxJ0taaYO7ijD0qyFvIPXaz/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1ZGDPzbV9cosuIWKs09yAX2whfPVmDKHz/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -76,7 +64,7 @@
                                             <h4><b>Encontro de Tutores</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1jg9mUZLptq8bHaFM-57HWjzp2hntoG0I/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1Kt2fFTzyHEaRWl3XdznZDsJM72Jz3ciU/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
                                     
@@ -109,25 +97,13 @@
 
                                     <tr>                                    
                                         <td class="name-pr">                                              
-                                            <h4><b>09:00 - 10:30</b></h4>
+                                            <h4><b>08:50 - 12:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Mobiliza PET - Mesa Redonda</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
+                                            <h4><b>Mobiliza PET/Diversifica PET</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1Lgwa-hvPwq2pTuG2hXJkeodJSgBcHMCw/view?usp=drivesdk">Clique aqui</a>
-                                        </td>                                            
-                                    </tr>
-                                    
-                                    <tr>                                    
-                                        <td class="name-pr">                                              
-                                            <h4><b>10:30 - 12:00</b></h4>
-                                        </td>
-                                        <td class="price-pr">
-                                            <h4><b>Mobiliza PET - Atividades Diversas</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
-                                        </td>
-                                        <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1osTZ9kALN5Dyfvs5MOwQdgwT_YVYgVYY/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/16CLlnPys38tsR5n9DG00mfi0PPkr8R1u/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -139,7 +115,7 @@
                                             <h4><b>Oficina 1: Oficina de Lembrancinha do ENEPET - Como fazer um planner semanal ou mensal.</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1mVQzLhLT9jkyUHUPEM-xxhLlAIs99yVp/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1Zfju8NRy_oGDIBvn1rMENAbckwE9jftx/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -148,10 +124,10 @@
                                             <h4><b>14:00 - 16:00</b></h4>
                                         </td>
                                         <td class="price-pr">
-                                            <h4><b>Oficina 2: Oficina do PET Computação - Segurança na Informação</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
+                                            <h4><b>Oficina 2: Oficina do PET Computação - Privacidade e Proteção de Dados</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1unm1XAFts2IFqqqdZpICrmvGa-TIEnKJ/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1HTx6X2AL2D1EI8zvOzqi1RFVHeZWurp8/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -163,7 +139,7 @@
                                             <h4><b>Oficina 3: Oficina de Compostagem - Estimular a decomposição de materiais orgânicos para um solo humífero</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1BFJcVNg-_Aq8yKSu8tiYFM-UxG96N4mL/view?usp=drivesdk">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1zLIc1R5QD9XV6ch1Tx9uTk2nFp9Y-Ybv/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -175,11 +151,11 @@
                                             <h4><b>Oficina 4: Oficina A Torre de Babel e a diversidade de línguas no mundo</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1NXgXtzq5NiO9Cys279CEH0sj8xR-NbQa/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1fUpT1qoSoKmxsz92qyKRwI2ZNwt9-CcL/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
-                                    <tr>      
+                                    <!--<tr>      
                                         <td class="name-pr">                                              
                                             <h4><b>14:00 - 16:00</b></h4>
                                         </td>
@@ -189,7 +165,7 @@
                                         <td class="add-pr">
                                             <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1etxUok2jWlgYr-5U7V_2POUwbMosnDuf/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
-                                    </tr>
+                                    </tr>-->
 
                                     <tr>      
                                         <td class="name-pr">                                              
@@ -199,7 +175,7 @@
                                             <h4><b>Oficina 6: Oficina Autodesk Civil 3D Básico</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1Zo4jq9PREAtx4DiuCoBmip8GPgjNZ_7B/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1OhOtFcb5gyi2n_OJ_NsjUCng118uUqwz/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
                                     
@@ -237,7 +213,7 @@
                                             <h4><b>GDT 1: Ensino, pesquisa e extensão na dinâmica petiana</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1rAOStHkuU3vlJ-6Zl-uNvURsJ0fTspPG/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1u-UYTk9puUgjTekDcCdQk1zBZDqT6llb/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
                                     
@@ -249,7 +225,7 @@
                                             <h4><b>GDT 2: Entrada, permanência, lutas e conquistas dos grupos PET da Região Nordeste</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/17OBrRVwWOpwNzkQTUEdSZrOMwD2J9d7D/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1U2wu4ZUAL6sareHLBnIb5_Sw30zZQT5H/view?usp=sharing">Clique aqui</a>
                                         </td>                                           
                                     </tr>
 
@@ -261,7 +237,7 @@
                                             <h4><b>GDT 3: Planejamento e organização de eventos dos Grupos PET</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1HcTbmm6yGMUjnulePGg0rV9HZ6L2m_2k/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1uJHyUBcDTwcUX2FijD-MfNdCUA6-Fmk0/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -273,7 +249,7 @@
                                             <h4><b>GDT 4: Relação entre tutores, discentes e egressos nas atividades do PET: <br>Formas de aprimoramento e manutenção do Programa</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1QN3nFEKN8aokIvP5BelkwYTy8ssjgI-2/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1boBmYKsY3rGgnrGuzo9POu-vSxY1_I9U/view?usp=sharing">Clique aqui</a>
                                         </td>                                               
                                     </tr>
 
@@ -285,7 +261,7 @@
                                             <h4><b>GDT 5: Equidade, liberdade e pluralidade: o PET em busca pela autonomia da universidade</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1NFRUWMmZ6iN-zBpN7We0ajSHVSAFpy9P/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1SAXpyM3qL-v8T2V5duzOEzTuqbBTcs1u/view?usp=sharing">Clique aqui</a>
                                         </td>                                          
                                     </tr>
 
@@ -297,7 +273,7 @@
                                             <h4><b>GDT 6: Saúde mental na universidade</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1wxJmrJz-aw_2E3HyqMySTt6MrvOJVdbK/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1F25_CwspBqtqyBMirJI0CqgsSzEP-zCh/view?usp=sharing">Clique aqui</a>
                                         </td>                                          
                                     </tr>
 
@@ -309,8 +285,20 @@
                                             <h4><b>Encontro dos CLAAs</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1I_uICYWo0jo7LEGS3To-v-d40v1UepNI/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1i9baRjZcHYVcS5HY4HXwtRKM4L1kbWKR/view?usp=sharing">Clique aqui</a>
                                         </td>                                          
+                                    </tr>
+
+                                    <tr>      
+                                        <td class="name-pr">                                              
+                                            <h4><b>17:30 - 19:00</b></h4>
+                                        </td>
+                                        <td class="price-pr">
+                                            <h4><b>Atividade Cultural</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
+                                        </td>
+                                        <!--<td class="add-pr">
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1OhOtFcb5gyi2n_OJ_NsjUCng118uUqwz/view?usp=sharing">Clique aqui</a>
+                                        </td>-->                                            
                                     </tr>
                                 
                                 </table>
