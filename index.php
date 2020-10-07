@@ -67,6 +67,19 @@
             <div class="blog-box">
                 <div class="blog-content">
                     <div class="title-blog">
+                        <h3>Submissão de Vídeo Mobiliza/Diversifica PET</h3>
+                        <p>Compartilhe através de um vídeocom a gente a diferença que o Programa de Educação Tutorial tem feito na sua vida!</p>
+                    </div>
+                    <ul class="option-blog">
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScYOEfBiCHsb49R7-mJZwCLuQTFy8_k_FTrtYmqoz-6HmCleA/viewform" data-toggle="tooltip" data-placement="right" title="Submeta"><i class="fas fa-eye"></i></a></li>
+                    </ul>
+                </div>
+            </div>  
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-4">
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
                         <h3>XIX ENEPET publica uma carta aberta sobre a construção do evento</h3>
                         <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET(ENEPET) vem a público relatar parte do processo de construção do Evento e alguns imponderáveis ocorridos durante a Pandemia.</p>
                     </div>
@@ -90,22 +103,18 @@
             </div>  
         </div>
         <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="blog-box">
-                    <div class="blog-content">
-                        <div class="title-blog">
-                            <h3>Nota oficial sobre o adiamento do XIX ENEPET</h3>
-                            <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem por meio desta nota informar o ADIAMENTO do realização deste evento.</p>
-                        </div>
-                        <ul class="option-blog">
-                            <li><a href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
-                        </ul>
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
+                        <h3>Nota oficial sobre o adiamento do XIX ENEPET</h3>
+                        <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem por meio desta nota informar o ADIAMENTO do realização deste evento.</p>
                     </div>
+                    <ul class="option-blog">
+                        <li><a href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
+                    </ul>
                 </div>
-            </div>    
-        </div>
-    
-        <!-- Coluna 2 -->
-        <div class="row">
+            </div>
+        </div>    
         <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="blog-box">
                 <div class="blog-content">
@@ -133,22 +142,18 @@
             </div>  
         </div>
         <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="blog-box">
-                    <div class="blog-content">
-                        <div class="title-blog">
-                            <h3>Edital de Oficinas e Minicursos disponível</h3>
-                            <p>Você já pode acessar o Edital para ter todas as informações relacionadas às submissões de oficinas e minicursos, como prazos e requisitos.</p>
-                        </div>
-                        <ul class="option-blog">
-                            <li><a href="https://drive.google.com/open?id=1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch" data-toggle="tooltip" data-placement="right" title="Edital"><i class="fas fa-eye"></i></a></li>
-                        </ul>
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
+                        <h3>Edital de Oficinas e Minicursos disponível</h3>
+                        <p>Você já pode acessar o Edital para ter todas as informações relacionadas às submissões de oficinas e minicursos, como prazos e requisitos.</p>
                     </div>
+                    <ul class="option-blog">
+                        <li><a href="https://drive.google.com/open?id=1q0FDQFaL9G-qYfzvGV6-ndQYaXMj2hch" data-toggle="tooltip" data-placement="right" title="Edital"><i class="fas fa-eye"></i></a></li>
+                    </ul>
                 </div>
-            </div>    
-        </div>
-
-        <!-- Coluna 1 -->
-        <div class="row">
+            </div>
+        </div>    
         <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="blog-box">
                 <div class="blog-content">
@@ -176,22 +181,18 @@
             </div>  
         </div>
         <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="blog-box">
-                    <div class="blog-content">
-                        <div class="title-blog">
-                            <h3>Inscrições para Avaliadores de Trabalhos!</h3>
-                            <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
-                        </div>
-                        <ul class="option-blog">
-                            <li><a href="https://forms.gle/LZZMMM99Yb3ZSCvUA" data-toggle="tooltip" data-placement="right" title="Inscrições"><i class="fas fa-eye"></i></a></li>
-                        </ul>
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
+                        <h3>Inscrições para Avaliadores de Trabalhos!</h3>
+                        <p>A comissão organizadora do XIX ENEPET esta realizando cadastro de tutores para a avaliação de trabalhos, buscando assim uma maior representatividade de tutores da região nordeste.</p>
                     </div>
+                    <ul class="option-blog">
+                        <li><a href="https://forms.gle/LZZMMM99Yb3ZSCvUA" data-toggle="tooltip" data-placement="right" title="Inscrições"><i class="fas fa-eye"></i></a></li>
+                    </ul>
                 </div>
-            </div>    
-        </div>
-
-        <!-- Coluna 1 -->
-    <div class="row">
+            </div>
+        </div>    
         <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="blog-box">
                 <div class="blog-content">
@@ -219,23 +220,18 @@
             </div>  
         </div>
         <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="blog-box">
-                    <div class="blog-content">
-                        <div class="title-blog">
-                            <h3>Reunião com o Reitor</h3>
-                            <p>O novo reitor Natalino Salgado se reuniu com integrantes de 13 grupos do Programa de Educação Tutorial (PET) da UFMA para garantir apoio ao XIX Encontro Nordestino dos Grupos do PET (Enepet), que será sediado na Cidade Universitária entre os dias 19 e 21 de abril deste ano.</p>
-                        </div>
-                        <ul class="option-blog">
-                            <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=55562" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
-                        </ul>
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
+                        <h3>Reunião com o Reitor</h3>
+                        <p>O novo reitor Natalino Salgado se reuniu com integrantes de 13 grupos do Programa de Educação Tutorial (PET) da UFMA para garantir apoio ao XIX Encontro Nordestino dos Grupos do PET (Enepet), que será sediado na Cidade Universitária entre os dias 19 e 21 de abril deste ano.</p>
                     </div>
+                    <ul class="option-blog">
+                        <li><a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=55562" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
+                    </ul>
                 </div>
-            </div>    
-        </div>
-
-
-        <!-- Coluna 1 -->
-    <div class="row">
+            </div>
+        </div>    
         <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="blog-box">
                 <div class="blog-content">
@@ -263,19 +259,19 @@
             </div>  
         </div>
         <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="blog-box">
-                    <div class="blog-content">
-                        <div class="title-blog">
-                            <h3>Nota oficial sobre o adiamento do XIX ENEPET</h3>
-                            <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem por meio desta nota informar o ADIAMENTO do realização deste evento.</p>
-                        </div>
-                        <ul class="option-blog">
-                            <li><a href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
-                        </ul>
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
+                        <h3>Nota oficial sobre o adiamento do XIX ENEPET</h3>
+                        <p>A Comissão Organizadora do XIX Encontro Nordestino dos Grupos PET vem por meio desta nota informar o ADIAMENTO do realização deste evento.</p>
                     </div>
+                    <ul class="option-blog">
+                        <li><a href="https://drive.google.com/open?id=1y7jzDDZk-Svtjq7bDTi6jqxvpsNXsTag" data-toggle="tooltip" data-placement="right" title="Notícia"><i class="fas fa-eye"></i></a></li>
+                    </ul>
                 </div>
-            </div>    
-        </div>
+            </div>
+        </div>    
+    </div>
 
          
 

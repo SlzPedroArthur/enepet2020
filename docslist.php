@@ -17,6 +17,22 @@
                             </thead>
                             <tbody>
                                 <tr>
+                                </a>
+                                    </td>
+                                    <td class="name-pr">
+                                        <a href="#">
+                                    Regimento da Assembleia Final
+                                </a>
+                                    </td>
+                                    <td class="price-pr">
+                                        <p>Confira aqui o regimento.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/file/d/1z1TDutMrVqURFjZ7Ub4LxC-nF7N5V9tc/view">Baixe aqui</a>
+                                    </td>
+                                    
+                                </tr>
+                                <tr>
 								</a>
                                     </td>
                                     <td class="name-pr">
