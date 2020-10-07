@@ -4,6 +4,18 @@
     <!-- Start Slider -->
     <div id="slides-shop" class="cover-slides">
         <ul class="slides-container">
+            <li class="text-center">
+                <img src="images/banner-01.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Submissão de Vídeo<br>Mobiliza/Diversifica PET</strong></h1>
+                            <p class="m-b-40">Compartilhe com a gente através de um vídeo a diferença que o Programa de Educação Tutorial tem feito na sua vida!</p>
+                            <p><a class="btn hvr-hover" href="https://docs.google.com/forms/d/e/1FAIpQLScYOEfBiCHsb49R7-mJZwCLuQTFy8_k_FTrtYmqoz-6HmCleA/viewform">Submeta</a></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
             <li class="text-left">
                 <img src="images/banner-01.jpg" alt="">
                 <div class="container">
@@ -68,7 +80,7 @@
                 <div class="blog-content">
                     <div class="title-blog">
                         <h3>Submissão de Vídeo Mobiliza/Diversifica PET</h3>
-                        <p>Compartilhe através de um vídeocom a gente a diferença que o Programa de Educação Tutorial tem feito na sua vida!</p>
+                        <p>Compartilhe com a gente através de um vídeo a diferença que o Programa de Educação Tutorial tem feito na sua vida!</p>
                     </div>
                     <ul class="option-blog">
                         <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScYOEfBiCHsb49R7-mJZwCLuQTFy8_k_FTrtYmqoz-6HmCleA/viewform" data-toggle="tooltip" data-placement="right" title="Submeta"><i class="fas fa-eye"></i></a></li>
