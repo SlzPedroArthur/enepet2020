@@ -40,7 +40,7 @@
                                             <h4><b>Mesa de Abertura e Mesa Redonda “Liberdade, equidade e pluralidade: <br> o PET em luta pela autonomia da universidade”</b></h4><b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1zIIbNWSlVzGZu1QT38ERLTtmvhduFScC/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1ZJZ7pd3dV8YZm7W0Mo43Vd2LeycgOXIz/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -52,7 +52,7 @@
                                             <h4><b>Encontro de Discentes</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail e <a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1ZGDPzbV9cosuIWKs09yAX2whfPVmDKHz/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/13PnW7XpemfJ42tNEBqjxSYVWbUf-XAqD/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -64,7 +64,7 @@
                                             <h4><b>Encontro de Tutores</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1Kt2fFTzyHEaRWl3XdznZDsJM72Jz3ciU/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1HGwB5FSf3Wnd8FADU9GsiZNuqmJz32iz/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
                                     
