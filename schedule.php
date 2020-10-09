@@ -335,7 +335,7 @@
                                             <h4><b>Apresentação de Trabalhos</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="#">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="#">Clique aqui</a>
                                         </td>                                            
                                     </tr>                                              
                                     <tr>                                    
@@ -346,7 +346,7 @@
                                             <h4><b>Leitura do regimento da Assembléia Final</b></h4><b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                         </td>   
                                         <td class="add-pr">
-                                            <a class="btn hvr-hover" href="https://drive.google.com/file/d/1z1TDutMrVqURFjZ7Ub4LxC-nF7N5V9tc/view">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1z1TDutMrVqURFjZ7Ub4LxC-nF7N5V9tc/view">Clique aqui</a>
                                         </td>                                        
                                     </tr>                                     
                                     
@@ -384,7 +384,7 @@
                                                     <h4><b>Assembléia Final (Primeiro momento)</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                                 </td>
                                                 <td class="add-pr">
-                                                    <a class="btn hvr-hover" href="https://drive.google.com/file/d/14Ho_-mhmxC9xxPxGTAvMQiDf-30ZUlY0/view?usp=sharing">Clique aqui</a>
+                                                    <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1fIbHr2WE6WNsoaYWkmRyf0PnvosP0JRW/view?usp=sharing">Clique aqui</a>
                                                 </td>                                         
                                             </tr>
                                             
@@ -396,7 +396,7 @@
                                                     <h4><b>Assembléia Final (Segundo momento)</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                                 </td>
                                                 <td class="add-pr">
-                                                    <a class="btn hvr-hover" href="https://drive.google.com/file/d/1Bh1h1VK7LQQT_wkIJPLehKzE_kjcxeHu/view?usp=sharing">Clique aqui</a>
+                                                    <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/14jN05Kdz60npXOV4s2hhXkgdRI13IlHH/view?usp=sharing">Clique aqui</a>
                                                 </td>                                         
                                             </tr>
 
@@ -408,7 +408,7 @@
                                                     <h4><b>Mesa de Encerramento</b></h4> <b>Local: </b><a href="https://www.youtube.com/channel/UCSBVcFRi3jn50lNndwT9P2w" class="text-warning stretched-link"> Youtube </a>
                                                 </td>
                                                 <td class="add-pr">
-                                                    <a class="btn hvr-hover" href="https://drive.google.com/file/d/13U6Ss9l6dknSh2jhQNgVevJg9B8VOvIe/view?usp=sharing">Clique aqui</a>
+                                                    <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1kk7u8aoAW46j7jLW4cPHztMtuwo2QcCt/view?usp=sharing">Clique aqui</a>
                                                 </td>                                          
                                             </tr>
                                                                                         
