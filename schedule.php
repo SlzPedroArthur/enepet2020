@@ -109,7 +109,7 @@
 
                                     <tr>      
                                         <td class="name-pr">                                              
-                                            <h4><b>14:00 - 16:00</b></h4>
+                                            <h4><b>14:00 - 17:00</b></h4>
                                         </td>
                                         <td class="price-pr">
                                             <h4><b>Oficina 1: Oficina de Papelaria Sustentável</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
@@ -121,7 +121,7 @@
 
                                     <tr>      
                                         <td class="name-pr">                                              
-                                            <h4><b>14:00 - 16:00</b></h4>
+                                            <h4><b>14:00 - 17:00</b></h4>
                                         </td>
                                         <td class="price-pr">
                                             <h4><b>Oficina 2: Segurança na WEB - Aprenda a se Proteger</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
@@ -133,7 +133,7 @@
 
                                     <tr>      
                                         <td class="name-pr">                                              
-                                            <h4><b>14:00 - 16:00</b></h4>
+                                            <h4><b>14:00 - 17:00</b></h4>
                                         </td>
                                         <td class="price-pr">
                                             <h4><b>Oficina 3: Compostagem com potes de sorvete</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
@@ -145,7 +145,7 @@
 
                                     <tr>      
                                         <td class="name-pr">                                              
-                                            <h4><b>14:00 - 16:00</b></h4>
+                                            <h4><b>14:00 - 17:00</b></h4>
                                         </td>
                                         <td class="price-pr">
                                             <h4><b>Oficina 4: Autodesk civil 3D básico</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
@@ -157,7 +157,7 @@
 
                                     <tr>      
                                         <td class="name-pr">                                              
-                                            <h4><b>14:00 - 16:00</b></h4>
+                                            <h4><b>14:00 - 17:00</b></h4>
                                         </td>
                                         <td class="price-pr">
                                             <h4><b>Oficina 5: Linkedin: Aprenda a construir um perfil campeão</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
@@ -169,7 +169,7 @@
 
                                     <tr>      
                                         <td class="name-pr">                                              
-                                            <h4><b>14:00 - 16:00</b></h4>
+                                            <h4><b>14:00 - 17:00</b></h4>
                                         </td>
                                         <td class="price-pr">
                                             <h4><b>Oficina 6: A torre de babel e a diversidade de línguas no mundo</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
