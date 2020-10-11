@@ -115,7 +115,7 @@
                                             <h4><b>Oficina 1: Oficina de Papelaria Sustentável</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1Zfju8NRy_oGDIBvn1rMENAbckwE9jftx/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1iD6B5Jt0OG3gLrNX2EqVj_kjAPdhWYe1/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -127,7 +127,7 @@
                                             <h4><b>Oficina 2: Segurança na WEB - Aprenda a se Proteger</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1HTx6X2AL2D1EI8zvOzqi1RFVHeZWurp8/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1YJRYhwGy8e-Zedgw5JAVNdGQqQbzHVYp/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -139,7 +139,7 @@
                                             <h4><b>Oficina 3: Compostagem com potes de sorvete</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1zLIc1R5QD9XV6ch1Tx9uTk2nFp9Y-Ybv/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1YJllNONBl11HIG0d82ZduUqK9mN1k34H/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -151,7 +151,7 @@
                                             <h4><b>Oficina 4: Autodesk civil 3D básico</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1fUpT1qoSoKmxsz92qyKRwI2ZNwt9-CcL/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1YNx4-rRAjAEbvLZjLWMDGO2pxrl5QEtS/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -163,7 +163,7 @@
                                             <h4><b>Oficina 5: Linkedin: Aprenda a construir um perfil campeão</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1etxUok2jWlgYr-5U7V_2POUwbMosnDuf/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1YNqSyedS2bubYVz7gI5kC1N8k8q8ljGb/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
 
@@ -175,7 +175,7 @@
                                             <h4><b>Oficina 6: A torre de babel e a diversidade de línguas no mundo</b></h4> <b>Local: </b>Google Meet - Aguarde o convite por e-mail
                                         </td>
                                         <td class="add-pr">
-                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1OhOtFcb5gyi2n_OJ_NsjUCng118uUqwz/view?usp=sharing">Clique aqui</a>
+                                            <a target="blank" class="btn hvr-hover" href="https://drive.google.com/file/d/1YP8C3LTU--a36kYXYqW1mH8YrbyPxP-4/view?usp=sharing">Clique aqui</a>
                                         </td>                                            
                                     </tr>
                                     
