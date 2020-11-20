@@ -6,9 +6,8 @@
 
         <div class="container">
             <div class="title-all text-center">
-                <h1></h1>
                 <h1>Documentos para download</h1>
-                <p>Encontre ATAs, Guias, Artigos, e mais!</p>
+                <p>Encontre ATAs, Notas, Guias, Artigos, e mais!</p>
             </div>   
             <div class="my-account-page">
                 <div class="row">
@@ -19,8 +18,8 @@
                                     <a href="docslist.php"> <i class="fa fa-book"></i> </a>
                                 </div>
                                 <div class="service-desc">
-                                    <h4>Editais</h4>
-                                    <p>Todos os editais do evento!</p>
+                                    <h4>Editais, Notas e Informativos</h4>
+                                    <p>Todos os editais, notas e informativos do evento!</p>
                                 </div>
                             </div>
                         </div>
@@ -33,7 +32,7 @@
                                 </div>
                                 <div class="service-desc">
                                     <h4>ATAs</h4>
-                                    <p>Atas das reuniões e assembleias.</p>
+                                    <p>Atas das reuniões e assembleias.<br><br></p>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +45,7 @@
                                 </div>
                                 <div class="service-desc">
                                     <h4>Resumo Expandido</h4>
-                                    <p>Resumos publicados no evento.</p>
+                                    <p>Resumos publicados no evento.<br><br></p>
                                 </div>
                             </div>
                         </div>

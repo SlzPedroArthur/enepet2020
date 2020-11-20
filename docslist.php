@@ -8,6 +8,10 @@
                 <div class="col-lg-12">
                     <div class="table-main table-responsive">
                         <table class="table">
+                            <div class="title-all text-center">
+                                <h1>Editais, Notas e Informativos</h1>
+                                <p>Todos os editais, notas e informativos do evento!</p>
+                            </div>   
                             <thead>
                                 <tr>
                                     <th>Título</th>
@@ -16,6 +20,34 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                <tr>
+                                    <td class="name-pr"><a href="#">Nota de Repúdio</a></td>
+                                    <td class="price-pr">
+                                        <a href="#"><p>Nota de repúdio contra os cortes orçamentários no MEC.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/file/d/1KjMNSsjmDw_E0429YSzfZjMzpL9z9P3X/view?usp=sharing">Baixe aqui</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                <tr>
+                                    <td class="name-pr"><a href="#">Nota de Repúdio</a></td>
+                                    <td class="price-pr">
+                                        <p>Nota de repúdio contra o Programa Future-se do Governo Federal.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/file/d/1l3CCZBS77LINlN8JDjdOcplJ3pl9v8bU/view?usp=sharing">Baixe aqui</a>
+                                    </td>
+                                </tr>
+                                <tr><tr>
+                                    <td class="name-pr"><a href="#">Carta Aberta</a></td>
+                                    <td class="price-pr">
+                                        <p>Carta aberta direcionada a SESU-MEC sobre o custeio dos grupos PET 2020.</p>
+                                    </td>
+                                    <td class="add-pr">
+                                        <a class="btn hvr-hover" href="https://drive.google.com/file/d/1CZpXIipHsgZtZWL68Lrk8ABv_Yxtzww9/view?usp=sharing">Baixe aqui</a>
+                                    </td>
+                                </tr>
                                 <tr>
                                 </a>
                                     </td>

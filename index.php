@@ -4,26 +4,14 @@
     <!-- Start Slider -->
     <div id="slides-shop" class="cover-slides">
         <ul class="slides-container">
-            <li class="text-center">
-                <img src="images/banner-01.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Submissão de Vídeo<br>Mobiliza/Diversifica PET</strong></h1>
-                            <p class="m-b-40">Compartilhe com a gente através de um vídeo a diferença que o Programa de Educação Tutorial tem feito na sua vida!</p>
-                            <p><a class="btn hvr-hover" href="https://docs.google.com/forms/d/e/1FAIpQLScYOEfBiCHsb49R7-mJZwCLuQTFy8_k_FTrtYmqoz-6HmCleA/viewform">Submeta</a></p>
-                        </div>
-                    </div>
-                </div>
-            </li>
             <li class="text-left">
-                <img src="images/banner-01.jpg" alt="">
+                <img src="images/banner-03.jpg" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Carta Aberta</strong></h1>
-                            <p class="m-b-40">Uma carta aberta sobre a construção do evento</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1G6p7_Tf11VbFgnNZbQ-5zdW_y3J5Oz0v/view?usp=sharing">Acesse</a></p>
+                            <h1 class="m-b-20"><strong>Nota de Repúdio</strong></h1>
+                            <p class="m-b-40">Nota de repúdio contra os cortes orçamentários no MEC.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1KjMNSsjmDw_E0429YSzfZjMzpL9z9P3X/view?usp=sharing">Confira</a></p>
                         </div>
                     </div>
                 </div>
@@ -33,9 +21,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Informativo <br>sobre mudança de preços</strong></h1>
-                            <p class="m-b-40">Nota oficinal da Comissão Organizadora do XIX ENEPET.</p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=1jTS_qZvnsC11rXw8SeCIEnw5DRRBo6qx">Informativo</a></p>
+                            <h1 class="m-b-20"><strong>Carta Aberta</strong></h1>
+                            <p class="m-b-40">Carta aberta direcionada a SESU-MEC sobre o custeio dos grupos PET 2020.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1CZpXIipHsgZtZWL68Lrk8ABv_Yxtzww9/view?usp=sharing">Confira</a></p>
                         </div>                
 					</div>
                 </div>
@@ -45,9 +33,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1 class="m-b-20"><strong>Retificação do <br>Edital de Inscrição</strong></h1>
-                            <p class="m-b-40">Acesse abaixo para verificar as mudanças do edital.<br></p>
-                            <p><a class="btn hvr-hover" href="https://drive.google.com/open?id=18H-nOS6fZ7DyY0YSOvGdlz457fUw3mqX">Errata</a></p>
+                            <h1 class="m-b-20"><strong>Nota de Repúdio</strong></h1>
+                            <p class="m-b-40">Nota de repúdio contra o Programa Future-se do Governo Federal.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1l3CCZBS77LINlN8JDjdOcplJ3pl9v8bU/view?usp=sharing">Confira</a></p>
                         </div>
                     </div>
                 </div>
@@ -59,7 +47,6 @@
         </div>
     </div>
     <!-- End Slider -->
-
 <!-- Start Blog  -->
 <div class="latest-blog">
         <div class="container">
