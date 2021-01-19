@@ -4,6 +4,18 @@
     <!-- Start Slider -->
     <div id="slides-shop" class="cover-slides">
         <ul class="slides-container">
+            <li class="text-center">
+                <img src="images/banner-02.jpg" alt="">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Ata da Assembleia</strong></h1>
+                            <p class="m-b-40">Ata da Assembleia do XIX ENEPET.</p>
+                            <p><a class="btn hvr-hover" href="https://drive.google.com/file/d/1ZK9AjEiHNH6eWYKAJDFY-2yzw3f5pFrR/view?usp=sharing">Confira</a></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
             <li class="text-left">
                 <img src="images/banner-03.jpg" alt="">
                 <div class="container">
@@ -62,6 +74,19 @@
 <!-- inicio -->
     <!-- Coluna 1 -->
     <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-4">
+            <div class="blog-box">
+                <div class="blog-content">
+                    <div class="title-blog">
+                        <h3>Ata da Assembleia</h3>
+                        <p>Ata da Assembleia do XIX ENEPET já está disponível. Saiba mais!</p>
+                    </div>
+                    <ul class="option-blog">
+                        <li><a href="https://drive.google.com/file/d/1ZK9AjEiHNH6eWYKAJDFY-2yzw3f5pFrR/view?usp=sharing" data-toggle="tooltip" data-placement="right" title="Saiba mais"><i class="fas fa-eye"></i></a></li>
+                    </ul>
+                </div>
+            </div>  
+        </div>
         <div class="col-md-6 col-lg-4 col-xl-4">
             <div class="blog-box">
                 <div class="blog-content">

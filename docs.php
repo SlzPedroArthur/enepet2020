@@ -28,7 +28,7 @@
                         <div class="account-box">
                             <div class="service-box">
                                 <div class="service-icon">
-                                    <a href="construction.php"><i class="fa fa-info"></i> </a>
+                                    <a href="atas.php"><i class="fa fa-info"></i> </a>
                                 </div>
                                 <div class="service-desc">
                                     <h4>ATAs</h4>
@@ -44,8 +44,8 @@
                                     <a href="construction.php"> <i class="fa fa-pen"></i> </a>
                                 </div>
                                 <div class="service-desc">
-                                    <h4>Resumo Expandido</h4>
-                                    <p>Resumos publicados no evento.<br><br></p>
+                                    <h4>Ata</h4>
+                                    <p>Ata da Assembleia do XIX ENEPET.</p>
                                 </div>
                             </div>
                         </div>
